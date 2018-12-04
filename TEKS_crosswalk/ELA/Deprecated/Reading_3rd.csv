@@ -1,0 +1,127 @@
+,row_id,academic_subject,reporting_category,teks_number,grade_levels,teks_id,teks_display_path
+0,1327,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1,3,175501,110.14.1
+1,1328,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.A,3,175790,110.14.1.A
+2,1329,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.A.i,3,157746,110.14.1.Ai
+3,1330,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.A.ii,3,157747,110.14.1.Aii
+4,1331,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.A.iii,3,157748,110.14.1.Aiii
+5,1332,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.A.iv,3,157749,110.14.1.Aiv
+6,1333,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.A.v,3,157750,110.14.1.Av
+7,1334,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.B,3,175791,110.14.1.B
+8,1335,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.B.i,3,157751,110.14.1.Bi
+9,1336,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.B.ii,3,157752,110.14.1.Bii
+10,1337,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.B.iii,3,157753,110.14.1.Biii
+11,1338,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.B.iv,3,157754,110.14.1.Biv
+12,1339,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.B.v,3,157755,110.14.1.Bv
+13,1340,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.C,3,157756,110.14.1.C
+14,1341,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.D,3,157757,110.14.1.D
+15,1342,English,Reading/Beginning Reading Skills/Phonics,110.14.b.1.E,3,157758,110.14.1.E
+16,1366,English,Reading/Comprehension of Literary Text/Sensory Language,110.14.b.10,3,157776,110.14.10.A
+17,1367,English,Reading/Comprehension of Text/Independent Reading,110.14.b.11,3,157777,110.14.11.A
+18,1368,English,Reading/Comprehension of Informational Text/Culture and History,110.14.b.12,3,157778,110.14.12.A
+19,1369,English,Reading/Comprehension of Informational Text/Expository Text,110.14.b.13,3,175505,110.14.13
+20,1344,English,Reading/Comprehension of Informational Text/Expository Text,110.14.b.13.A,3,157779,110.14.13.A
+21,1345,English,Reading/Comprehension of Informational Text/Expository Text,110.14.b.13.B,3,157780,110.14.13.B
+22,1370,English,Reading/Comprehension of Informational Text/Expository Text,110.14.b.13.C,3,157781,110.14.13.C
+23,1371,English,Reading/Comprehension of Informational Text/Expository Text,110.14.b.13.D,3,157782,110.14.13.D
+24,1376,English,Reading/Comprehension of Informational Text/Persuasive Text,110.14.b.14,3,157783,110.14.14.A
+25,1377,English,Reading/Comprehension of Informational Text/Procedural Texts,110.14.b.15,3,175507,110.14.15
+26,1378,English,Reading/Comprehension of Informational Text/Procedural Texts,110.14.b.15.A,3,157784,110.14.15.A
+27,1379,English,Reading/Comprehension of Informational Text/Procedural Texts,110.14.b.15.B,3,157785,110.14.15.B
+28,1380,English,Reading/Media Literacy,110.14.b.16,3,175508,110.14.16
+29,1381,English,Reading/Media Literacy,110.14.b.16.A,3,157786,110.14.16.A
+30,1382,English,Reading/Media Literacy,110.14.b.16.B,3,157787,110.14.16.B
+31,1383,English,Reading/Media Literacy,110.14.b.16.C,3,157788,110.14.16.C
+32,1384,English,Writing/Writing Process,110.14.b.17,3,175509,110.14.17
+33,1385,English,Writing/Writing Process,110.14.b.17.A,3,157789,110.14.17.A
+34,1386,English,Writing/Writing Process,110.14.b.17.B,3,157790,110.14.17.B
+35,1387,English,Writing/Writing Process,110.14.b.17.C,3,157791,110.14.17.C
+36,1388,English,Writing/Writing Process,110.14.b.17.D,3,157792,110.14.17.D
+37,1389,English,Writing/Writing Process,110.14.b.17.E,3,157793,110.14.17.E
+38,1390,English,Writing/Literary Texts,110.14.b.18,3,175510,110.14.18
+39,1391,English,Writing/Literary Texts,110.14.b.18.A,3,157794,110.14.18.A
+40,1392,English,Writing/Literary Texts,110.14.b.18.B,3,157795,110.14.18.B
+41,1393,English,Writing,110.14.b.19,3,157796,110.14.19.A
+42,1346,English,Reading/Beginning Reading/Strategies,110.14.b.2,3,175512,110.14.2
+43,1347,English,Reading/Beginning Reading/Strategies,110.14.b.2.A,3,157759,110.14.2.A
+44,1348,English,Reading/Beginning Reading/Strategies,110.14.b.2.B,3,157760,110.14.2.B
+45,1349,English,Reading/Beginning Reading/Strategies,110.14.b.2.C,3,157761,110.14.2.C
+46,1397,English,Writing/Expository and Procedural Texts,110.14.b.20,3,175513,110.14.20
+47,1394,English,Writing/Expository and Procedural Texts,110.14.b.20.A,3,175792,110.14.20.A
+48,1395,English,Writing/Expository and Procedural Texts,110.14.b.20.A.i,3,157797,110.14.20.Ai
+49,1396,English,Writing/Expository and Procedural Texts,110.14.b.20.A.ii,3,157798,110.14.20.Aii
+50,1398,English,Writing/Expository and Procedural Texts,110.14.b.20.A.iii,3,157799,110.14.20.Aiii
+51,1399,English,Writing/Expository and Procedural Texts,110.14.b.20.B,3,157800,110.14.20.B
+52,1400,English,Writing/Expository and Procedural Texts,110.14.b.20.C,3,157801,110.14.20.C
+53,1401,English,Writing/Persuasive Texts,110.14.b.21,3,157802,110.14.21.A
+54,1402,English,Oral and Written Conventions/Conventions,110.14.b.22,3,175515,110.14.22
+55,1403,English,Oral and Written Conventions/Conventions,110.14.b.22.A,3,175793,110.14.22.A
+56,1404,English,Oral and Written Conventions/Conventions,110.14.b.22.A.i,3,157803,110.14.22.Ai
+57,1405,English,Oral and Written Conventions/Conventions,110.14.b.22.A.ii,3,157804,110.14.22.Aii
+58,1406,English,Oral and Written Conventions/Conventions,110.14.b.22.A.iii,3,157805,110.14.22.Aiii
+59,1407,English,Oral and Written Conventions/Conventions,110.14.b.22.A.iv,3,157806,110.14.22.Aiv
+60,1408,English,Oral and Written Conventions/Conventions,110.14.b.22.A.v,3,157807,110.14.22.Av
+61,1409,English,Oral and Written Conventions/Conventions,110.14.b.22.A.vi,3,157808,110.14.22.Avi
+62,1410,English,Oral and Written Conventions/Conventions,110.14.b.22.A.vii,3,157809,110.14.22.Avii
+63,1411,English,Oral and Written Conventions/Conventions,110.14.b.22.A.viii,3,157810,110.14.22.Aviii
+64,1412,English,Oral and Written Conventions/Conventions,110.14.b.22.B,3,157811,110.14.22.B
+65,1413,English,Oral and Written Conventions/Conventions,110.14.b.22.C,3,157812,110.14.22.C
+66,1414,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23,3,175516,110.14.23
+67,1415,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.A,3,157813,110.14.23.A
+68,1416,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.B,3,175794,110.14.23.B
+69,1417,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.B.i,3,157814,110.14.23.Bi
+70,1418,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.B.ii,3,157815,110.14.23.Bii
+71,1372,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.B.iii,3,157816,110.14.23.Biii
+72,1373,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.C,3,175795,110.14.23.C
+73,1374,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.C.i,3,157817,110.14.23.Ci
+74,1375,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.C.ii,3,157818,110.14.23.Cii
+75,1419,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.14.b.23.D,3,157819,110.14.23.D
+76,1420,English,Oral and Written Conventions/Spelling,110.14.b.24,3,175517,110.14.24
+77,1421,English,Oral and Written Conventions/Spelling,110.14.b.24.A,3,157820,110.14.24.A
+78,1422,English,Oral and Written Conventions/Spelling,110.14.b.24.B,3,175796,110.14.24.B
+79,1423,English,Oral and Written Conventions/Spelling,110.14.b.24.B.i,3,157821,110.14.24.Bi
+80,1424,English,Oral and Written Conventions/Spelling,110.14.b.24.B.ii,3,157822,110.14.24.Bii
+81,1425,English,Oral and Written Conventions/Spelling,110.14.b.24.B.iii,3,157823,110.14.24.Biii
+82,1426,English,Oral and Written Conventions/Spelling,110.14.b.24.B.iv,3,157824,110.14.24.Biv
+83,1427,English,Oral and Written Conventions/Spelling,110.14.b.24.B.v,3,157825,110.14.24.Bv
+84,1428,English,Oral and Written Conventions/Spelling,110.14.b.24.B.vi,3,157826,110.14.24.Bvi
+85,1429,English,Oral and Written Conventions/Spelling,110.14.b.24.C,3,157827,110.14.24.C
+86,1430,English,Oral and Written Conventions/Spelling,110.14.b.24.D,3,157828,110.14.24.D
+87,1431,English,Oral and Written Conventions/Spelling,110.14.b.24.E,3,157829,110.14.24.E
+88,1432,English,Oral and Written Conventions/Spelling,110.14.b.24.F,3,157830,110.14.24.F
+89,1433,English,Oral and Written Conventions/Spelling,110.14.b.24.G,3,157831,110.14.24.G
+90,1434,English,Research/Research Plan,110.14.b.25,3,175518,110.14.25
+91,1435,English,Research/Research Plan,110.14.b.25.A,3,157832,110.14.25.A
+92,1436,English,Research/Research Plan,110.14.b.25.B,3,157833,110.14.25.B
+93,1437,English,Research/Gathering Sources,110.14.b.26,3,175519,110.14.26
+94,1438,English,Research/Gathering Sources,110.14.b.26.A,3,175797,110.14.26.A
+95,1439,English,Research/Gathering Sources,110.14.b.26.A.i,3,157834,110.14.26.Ai
+96,1440,English,Research/Gathering Sources,110.14.b.26.A.ii,3,157835,110.14.26.Aii
+97,1441,English,Research/Gathering Sources,110.14.b.26.A.iii,3,157836,110.14.26.Aiii
+98,1442,English,Research/Gathering Sources,110.14.b.26.B,3,157837,110.14.26.B
+99,1443,English,Research/Gathering Sources,110.14.b.26.C,3,157838,110.14.26.C
+100,1444,English,Research/Gathering Sources,110.14.b.26.D,3,157839,110.14.26.D
+101,1445,English,Research/Gathering Sources,110.14.b.26.E,3,157840,110.14.26.E
+102,1446,English,Research/Synthesizing Information,110.14.b.27,3,157841,110.14.27.A
+103,1447,English,Research/Organizing and Presenting Ideas,110.14.b.28,3,157842,110.14.28.A
+104,1448,English,Listening and Speaking/Listening,110.14.b.29,3,175522,110.14.29
+105,1449,English,Listening and Speaking/Listening,110.14.b.29.A,3,157843,110.14.29.A
+106,1450,English,Listening and Speaking/Listening,110.14.b.29.B,3,157844,110.14.29.B
+107,1350,English,Reading/Fluency,110.14.b.3,3,157762,110.14.3.A
+108,1451,English,Listening and Speaking/Speaking,110.14.b.30,3,157845,110.14.30.A
+109,1452,English,Listening and Speaking/Teamwork,110.14.b.31,3,157846,110.14.31.A
+110,1351,English,Reading/Vocabulary Development,110.14.b.4,3,175526,110.14.4
+111,1352,English,Reading/Vocabulary Development,110.14.b.4.A,3,157763,110.14.4.A
+112,1353,English,Reading/Vocabulary Development,110.14.b.4.B,3,157764,110.14.4.B
+113,1354,English,Reading/Vocabulary Development,110.14.b.4.C,3,157765,110.14.4.C
+114,1355,English,Reading/Vocabulary Development,110.14.b.4.D,3,157766,110.14.4.D
+115,1356,English,Reading/Vocabulary Development,110.14.b.4.E,3,157767,110.14.4.E
+116,1357,English,Reading/Comprehension of Literary Text/Theme and Genre,110.14.b.5,3,175527,110.14.5
+117,1358,English,Reading/Comprehension of Literary Text/Theme and Genre,110.14.b.5.A,3,157768,110.14.5.A
+118,1359,English,Reading/Comprehension of Literary Text/Theme and Genre,110.14.b.5.B,3,157769,110.14.5.B
+119,1360,English,Reading/Comprehension of Literary Text/Poetry,110.14.b.6,3,157770,110.14.6.A
+120,1363,English,Reading/Comprehension of Literary Text/Drama,110.14.b.7,3,157771,110.14.7.A
+121,1364,English,Reading/Comprehension of Literary Text/Fiction,110.14.b.8,3,175530,110.14.8
+122,1361,English,Reading/Comprehension of Literary Text/Fiction,110.14.b.8.A,3,157772,110.14.8.A
+123,1362,English,Reading/Comprehension of Literary Text/Fiction,110.14.b.8.B,3,157773,110.14.8.B
+124,1343,English,Reading/Comprehension of Literary Text/Fiction,110.14.b.8.C,3,157774,110.14.8.C
+125,1365,English,Reading/Comprehension of Literary Text/Literary Nonfiction,110.14.b.9,3,157775,110.14.9.A

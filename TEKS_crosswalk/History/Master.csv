@@ -1,0 +1,809 @@
+﻿row_id,academic_subject,reporting_category,teks_number,grade_levels,teks_id,teks_display_path
+5923,Humanities,History,113.18.b.1,6,,
+5927,Humanities,History,113.18.b.1.A,6,172768,113.18.1.A
+5924,Humanities,History,113.18.b.1.B,6,172769,113.18.1.B
+5964,Humanities,Economics,113.18.b.10,6,,
+5965,Humanities,Economics,113.18.b.10.A,6,172798,113.18.10.A
+5967,Humanities,Economics,113.18.b.10.B,6,172799,113.18.10.B
+5966,Humanities,Economics,113.18.b.10.C,6,172800,113.18.10.C
+5968,Humanities,Government,113.18.b.11,6,,
+5969,Humanities,Government,113.18.b.11.A,6,172801,113.18.11.A
+5970,Humanities,Government,113.18.b.11.B,6,172802,113.18.11.B
+5971,Humanities,Government,113.18.b.11.C,6,172803,113.18.11.C
+5972,Humanities,Government,113.18.b.11.D,6,172804,113.18.11.D
+5973,Humanities,Government,113.18.b.12,6,,
+5974,Humanities,Government,113.18.b.12.A,6,172805,113.18.12.A
+5975,Humanities,Government,113.18.b.12.B,6,172806,113.18.12.B
+5976,Humanities,Government,113.18.b.12.C,6,172807,113.18.12.C
+5977,Humanities,Citizenship,113.18.b.13,6,,
+5978,Humanities,Citizenship,113.18.b.13.A,6,172808,113.18.13.A
+5979,Humanities,Citizenship,113.18.b.13.B,6,172809,113.18.13.B
+5980,Humanities,Citizenship,113.18.b.13.C,6,172810,113.18.13.C
+5981,Humanities,Citizenship,113.18.b.14,6,,
+5982,Humanities,Citizenship,113.18.b.14.A,6,172811,113.18.14.A
+5983,Humanities,Citizenship,113.18.b.14.B,6,172812,113.18.14.B
+5984,Humanities,Culture,113.18.b.15,6,,
+5985,Humanities,Culture,113.18.b.15.A,6,172813,113.18.15.A
+5986,Humanities,Culture,113.18.b.15.B,6,172814,113.18.15.B
+5987,Humanities,Culture,113.18.b.15.C,6,172815,113.18.15.C
+5988,Humanities,Culture,113.18.b.15.D,6,172816,113.18.15.D
+5989,Humanities,Culture,113.18.b.15.E,6,172817,113.18.15.E
+5990,Humanities,Culture,113.18.b.15.F,6,172818,113.18.15.F
+5992,Humanities,Culture,113.18.b.16,6,,
+5993,Humanities,Culture,113.18.b.16.A,6,172819,113.18.16.A
+5994,Humanities,Culture,113.18.b.16.B,6,172820,113.18.16.B
+5995,Humanities,Culture,113.18.b.16.C,6,172821,113.18.16.C
+5996,Humanities,Culture,113.18.b.17,6,,
+5997,Humanities,Culture,113.18.b.17.A,6,172822,113.18.17.A
+5998,Humanities,Culture,113.18.b.17.B,6,172823,113.18.17.B
+5999,Humanities,Culture,113.18.b.17.C,6,172824,113.18.17.C
+6000,Humanities,Culture,113.18.b.17.D,6,172825,113.18.17.D
+6001,Humanities,Culture,113.18.b.17.E,6,172826,113.18.17.E
+6002,Humanities,Culture,113.18.b.18,6,,
+6003,Humanities,Culture,113.18.b.18.A,6,172827,113.18.18.A
+6004,Humanities,Culture,113.18.b.18.B,6,172828,113.18.18.B
+6005,Humanities,Culture,113.18.b.18.C,6,172829,113.18.18.C
+6006,Humanities,Culture,113.18.b.18.D,6,172830,113.18.18.D
+6007,Humanities,Culture,113.18.b.19,6,,
+6008,Humanities,Culture,113.18.b.19.A,6,172831,113.18.19.A
+6009,Humanities,Culture,113.18.b.19.B,6,172832,113.18.19.B
+5928,Humanities,History,113.18.b.2,6,,
+5929,Humanities,History,113.18.b.2.A,6,172770,113.18.2.A
+5925,Humanities,History,113.18.b.2.B,6,172771,113.18.2.B
+6010,Humanities,"Science, technology, and society",113.18.b.20,6,,
+6011,Humanities,"Science, technology, and society",113.18.b.20.A,6,172833,113.18.20.A
+6012,Humanities,"Science, technology, and society",113.18.b.20.B,6,172834,113.18.20.B
+6015,Humanities,"Science, technology, and society",113.18.b.20.C,6,172835,113.18.20.C
+6016,Humanities,Social studies skills,113.18.b.21,6,,
+6017,Humanities,Social studies skills,113.18.b.21.A,6,172836,113.18.21.A
+6018,Humanities,Social studies skills,113.18.b.21.B,6,172837,113.18.21.B
+6013,Humanities,Social studies skills,113.18.b.21.C,6,172838,113.18.21.C
+6014,Humanities,Social studies skills,113.18.b.21.D,6,172839,113.18.21.D
+5991,Humanities,Social studies skills,113.18.b.21.E,6,172840,113.18.21.E
+5941,Humanities,Social studies skills,113.18.b.21.F,6,172841,113.18.21.F
+5942,Humanities,Social studies skills,113.18.b.22,6,,
+5943,Humanities,Social studies skills,113.18.b.22.A,6,172842,113.18.22.A
+5944,Humanities,Social studies skills,113.18.b.22.B,6,172843,113.18.22.B
+6019,Humanities,Social studies skills,113.18.b.22.C,6,172844,113.18.22.C
+6020,Humanities,Social studies skills,113.18.b.22.D,6,172845,113.18.22.D
+6021,Humanities,Social studies skills,113.18.b.22.E,6,172846,113.18.22.E
+6022,Humanities,Social studies skills,113.18.b.22.F,6,172847,113.18.22.F
+6023,Humanities,Social studies skills,113.18.b.23,6,,
+6024,Humanities,Social studies skills,113.18.b.23.A,6,172848,113.18.23.A
+6025,Humanities,Social studies skills,113.18.b.23.B,6,172849,113.18.23.B
+5903,Humanities,Geography,113.18.b.3,6,,
+5930,Humanities,Geography,113.18.b.3.A,6,172772,113.18.3.A
+5931,Humanities,Geography,113.18.b.3.B,6,172773,113.18.3.B
+5904,Humanities,Geography,113.18.b.3.C,6,172774,113.18.3.C
+5932,Humanities,Geography,113.18.b.3.D,6,172775,113.18.3.D
+5933,Humanities,Geography,113.18.b.4,6,,
+5905,Humanities,Geography,113.18.b.4.A,6,172776,113.18.4.A
+5934,Humanities,Geography,113.18.b.4.B,6,172777,113.18.4.B
+5935,Humanities,Geography,113.18.b.4.C,6,172778,113.18.4.C
+5936,Humanities,Geography,113.18.b.4.D,6,172779,113.18.4.D
+5937,Humanities,Geography,113.18.b.4.E,6,172780,113.18.4.E
+5938,Humanities,Geography,113.18.b.4.F,6,172781,113.18.4.F
+5939,Humanities,Geography,113.18.b.5,6,,
+5940,Humanities,Geography,113.18.b.5.A,6,172782,113.18.5.A
+5945,Humanities,Geography,113.18.b.5.B,6,172783,113.18.5.B
+5946,Humanities,Geography,113.18.b.5.C,6,172784,113.18.5.C
+5947,Humanities,Geography,113.18.b.6,6,,
+5948,Humanities,Geography,113.18.b.6.A,6,172785,113.18.6.A
+5949,Humanities,Geography,113.18.b.6.B,6,172786,113.18.6.B
+5950,Humanities,Geography,113.18.b.6.C,6,172787,113.18.6.C
+5951,Humanities,Geography,113.18.b.7,6,,
+5952,Humanities,Geography,113.18.b.7.A,6,172788,113.18.7.A
+5953,Humanities,Geography,113.18.b.7.B,6,172789,113.18.7.B
+5954,Humanities,Geography,113.18.b.7.C,6,172790,113.18.7.C
+5955,Humanities,Economics,113.18.b.8,6,,
+5956,Humanities,Economics,113.18.b.8.A,6,172791,113.18.8.A
+5957,Humanities,Economics,113.18.b.8.B,6,172792,113.18.8.B
+5958,Humanities,Economics,113.18.b.8.C,6,172793,113.18.8.C
+5959,Humanities,Economics,113.18.b.9,6,,
+5960,Humanities,Economics,113.18.b.9.A,6,172794,113.18.9.A
+5961,Humanities,Economics,113.18.b.9.B,6,172795,113.18.9.B
+5962,Humanities,Economics,113.18.b.9.C,6,172796,113.18.9.C
+5963,Humanities,Economics,113.18.b.9.D,6,172797,113.18.9.D
+6026,Humanities,History,113.19.b.1,7,,
+6027,Humanities,History,113.19.b.1.A,7,172850,113.19.1.A
+6028,Humanities,History,113.19.b.1.B,7,172851,113.19.1.B
+6033,Humanities,History,113.19.b.1.C,7,172852,113.19.1.C
+6077,Humanities,Geography,113.19.b.10,7,,
+6078,Humanities,Geography,113.19.b.10.A,7,172884,113.19.10.A
+6079,Humanities,Geography,113.19.b.10.B,7,172885,113.19.10.B
+6084,Humanities,Geography,113.19.b.11,7,,
+6080,Humanities,Geography,113.19.b.11.A,7,172886,113.19.11.A
+6081,Humanities,Geography,113.19.b.11.B,7,172887,113.19.11.B
+6085,Humanities,Geography,113.19.b.11.C,7,172888,113.19.11.C
+6082,Humanities,Geography,113.19.b.11.D,7,172889,113.19.11.D
+6083,Humanities,Economics,113.19.b.12,7,,
+6062,Humanities,Economics,113.19.b.12.A,7,172890,113.19.12.A
+6063,Humanities,Economics,113.19.b.12.B,7,172891,113.19.12.B
+6064,Humanities,Economics,113.19.b.12.C,7,172892,113.19.12.C
+6065,Humanities,Economics,113.19.b.13,7,,
+6086,Humanities,Economics,113.19.b.13.A,7,172893,113.19.13.A
+6087,Humanities,Economics,113.19.b.13.B,7,172894,113.19.13.B
+6088,Humanities,Economics,113.19.b.13.C,7,172895,113.19.13.C
+6089,Humanities,Government,113.19.b.14,7,,
+6090,Humanities,Government,113.19.b.14.A,7,172896,113.19.14.A
+6091,Humanities,Government,113.19.b.14.B,7,172897,113.19.14.B
+6092,Humanities,Government,113.19.b.15,7,,
+6093,Humanities,Government,113.19.b.15.A,7,172898,113.19.15.A
+6094,Humanities,Government,113.19.b.15.B,7,172899,113.19.15.B
+6095,Humanities,Government,113.19.b.15.C,7,172900,113.19.15.C
+6096,Humanities,Citizenship,113.19.b.16,7,,
+6097,Humanities,Citizenship,113.19.b.16.A,7,172901,113.19.16.A
+6098,Humanities,Citizenship,113.19.b.16.B,7,172902,113.19.16.B
+6099,Humanities,Citizenship,113.19.b.17,7,,
+6100,Humanities,Citizenship,113.19.b.17.A,7,172903,113.19.17.A
+6101,Humanities,Citizenship,113.19.b.17.B,7,172904,113.19.17.B
+6102,Humanities,Citizenship,113.19.b.17.C,7,172905,113.19.17.C
+6103,Humanities,Citizenship,113.19.b.18,7,,
+6106,Humanities,Citizenship,113.19.b.18.A,7,172906,113.19.18.A
+6107,Humanities,Citizenship,113.19.b.18.B,7,172907,113.19.18.B
+6108,Humanities,Culture,113.19.b.19,7,,
+6109,Humanities,Culture,113.19.b.19.A,7,172908,113.19.19.A
+6110,Humanities,Culture,113.19.b.19.B,7,172909,113.19.19.B
+6111,Humanities,Culture,113.19.b.19.C,7,172910,113.19.19.C
+6112,Humanities,Culture,113.19.b.19.D,7,172911,113.19.19.D
+6034,Humanities,History,113.19.b.2,7,,
+6035,Humanities,History,113.19.b.2.A,7,172853,113.19.2.A
+6036,Humanities,History,113.19.b.2.B,7,172854,113.19.2.B
+6037,Humanities,History,113.19.b.2.C,7,172855,113.19.2.C
+6038,Humanities,History,113.19.b.2.D,7,172856,113.19.2.D
+6039,Humanities,History,113.19.b.2.E,7,172857,113.19.2.E
+6040,Humanities,History,113.19.b.2.F,7,172858,113.19.2.F
+6113,Humanities,"Science, technology, and society",113.19.b.20,7,,
+6114,Humanities,"Science, technology, and society",113.19.b.20.A,7,172912,113.19.20.A
+6115,Humanities,"Science, technology, and society",113.19.b.20.B,7,172913,113.19.20.B
+6116,Humanities,"Science, technology, and society",113.19.b.20.C,7,172914,113.19.20.C
+6117,Humanities,"Science, technology, and society",113.19.b.20.D,7,172915,113.19.20.D
+6118,Humanities,"Science, technology, and society",113.19.b.20.E,7,172916,113.19.20.E
+6119,Humanities,Social studies skills,113.19.b.21,7,,
+6120,Humanities,Social studies skills,113.19.b.21.A,7,172917,113.19.21.A
+6124,Humanities,Social studies skills,113.19.b.21.B,7,172918,113.19.21.B
+6121,Humanities,Social studies skills,113.19.b.21.C,7,172919,113.19.21.C
+6122,Humanities,Social studies skills,113.19.b.21.D,7,172920,113.19.21.D
+6123,Humanities,Social studies skills,113.19.b.21.E,7,172921,113.19.21.E
+6125,Humanities,Social studies skills,113.19.b.21.F,7,172922,113.19.21.F
+6126,Humanities,Social studies skills,113.19.b.21.G,7,172923,113.19.21.G
+6127,Humanities,Social studies skills,113.19.b.21.H,7,172924,113.19.21.H
+6128,Humanities,Social studies skills,113.19.b.22,7,,
+6129,Humanities,Social studies skills,113.19.b.22.A,7,172925,113.19.22.A
+6130,Humanities,Social studies skills,113.19.b.22.B,7,172926,113.19.22.B
+6131,Humanities,Social studies skills,113.19.b.22.C,7,172927,113.19.22.C
+6132,Humanities,Social studies skills,113.19.b.22.D,7,172928,113.19.22.D
+6133,Humanities,Social studies skills,113.19.b.23,7,,
+6134,Humanities,Social studies skills,113.19.b.23.A,7,172929,113.19.23.A
+6135,Humanities,Social studies skills,113.19.b.23.B,7,172930,113.19.23.B
+6041,Humanities,History,113.19.b.3,7,,
+6042,Humanities,History,113.19.b.3.A,7,172859,113.19.3.A
+6043,Humanities,History,113.19.b.3.B,7,172860,113.19.3.B
+6044,Humanities,History,113.19.b.3.C,7,172861,113.19.3.C
+6045,Humanities,History,113.19.b.3.D,7,172862,113.19.3.D
+6049,Humanities,History,113.19.b.4,7,,
+6050,Humanities,History,113.19.b.4.A,7,172863,113.19.4.A
+6046,Humanities,History,113.19.b.4.B,7,172864,113.19.4.B
+6051,Humanities,History,113.19.b.4.C,7,172865,113.19.4.C
+6047,Humanities,History,113.19.b.5,7,,
+6048,Humanities,History,113.19.b.5.A,7,172866,113.19.5.A
+6052,Humanities,History,113.19.b.5.B,7,172867,113.19.5.B
+6053,Humanities,History,113.19.b.5.C,7,172868,113.19.5.C
+6054,Humanities,History,113.19.b.6,7,,
+6055,Humanities,History,113.19.b.6.A,7,172869,113.19.6.A
+6056,Humanities,History,113.19.b.6.B,7,172870,113.19.6.B
+6057,Humanities,History,113.19.b.6.C,7,172871,113.19.6.C
+6058,Humanities,History,113.19.b.6.D,7,172872,113.19.6.D
+6059,Humanities,History,113.19.b.7,7,,
+6060,Humanities,History,113.19.b.7.A,7,172873,113.19.7.A
+6061,Humanities,History,113.19.b.7.B,7,172874,113.19.7.B
+6066,Humanities,History,113.19.b.7.C,7,172875,113.19.7.C
+6067,Humanities,History,113.19.b.7.D,7,172876,113.19.7.D
+6068,Humanities,History,113.19.b.7.E,7,172877,113.19.7.E
+6069,Humanities,History,113.19.b.7.F,7,172878,113.19.7.F
+6070,Humanities,Geography,113.19.b.8,7,,
+6071,Humanities,Geography,113.19.b.8.A,7,172879,113.19.8.A
+6072,Humanities,Geography,113.19.b.8.B,7,172880,113.19.8.B
+6073,Humanities,Geography,113.19.b.9,7,,
+6074,Humanities,Geography,113.19.b.9.A,7,172881,113.19.9.A
+6075,Humanities,Geography,113.19.b.9.B,7,172882,113.19.9.B
+6076,Humanities,Geography,113.19.b.9.C,7,172883,113.19.9.C
+6136,Humanities,History,113.20.b.1,8,,
+6137,Humanities,History,113.20.b.1.A,8,172931,113.20.1.A
+6138,Humanities,History,113.20.b.1.B,8,172932,113.20.1.B
+6139,Humanities,History,113.20.b.1.C,8,172933,113.20.1.C
+6175,Humanities,Geography,113.20.b.10,8,,
+6176,Humanities,Geography,113.20.b.10.A,8,172967,113.20.10.A
+6177,Humanities,Geography,113.20.b.10.B,8,172968,113.20.10.B
+6178,Humanities,Geography,113.20.b.10.C,8,172969,113.20.10.C
+6179,Humanities,Geography,113.20.b.11,8,,
+6180,Humanities,Geography,113.20.b.11.A,8,172970,113.20.11.A
+6181,Humanities,Geography,113.20.b.11.B,8,172971,113.20.11.B
+6182,Humanities,Geography,113.20.b.11.C,8,172972,113.20.11.C
+6183,Humanities,Economics,113.20.b.12,8,,
+6184,Humanities,Economics,113.20.b.12.A,8,172973,113.20.12.A
+6185,Humanities,Economics,113.20.b.12.B,8,172974,113.20.12.B
+6186,Humanities,Economics,113.20.b.12.C,8,172975,113.20.12.C
+6187,Humanities,Economics,113.20.b.12.D,8,172976,113.20.12.D
+6188,Humanities,Economics,113.20.b.13,8,,
+6189,Humanities,Economics,113.20.b.13.A,8,172977,113.20.13.A
+6190,Humanities,Economics,113.20.b.13.B,8,172978,113.20.13.B
+6191,Humanities,Economics,113.20.b.14,8,,
+6192,Humanities,Economics,113.20.b.14.A,8,172979,113.20.14.A
+6193,Humanities,Economics,113.20.b.14.B,8,172980,113.20.14.B
+6194,Humanities,Government,113.20.b.15,8,,
+6195,Humanities,Government,113.20.b.15.A,8,172981,113.20.15.A
+6196,Humanities,Government,113.20.b.15.B,8,172982,113.20.15.B
+6197,Humanities,Government,113.20.b.15.C,8,172983,113.20.15.C
+6198,Humanities,Government,113.20.b.15.D,8,172984,113.20.15.D
+6199,Humanities,Government,113.20.b.16,8,,
+6200,Humanities,Government,113.20.b.16.A,8,172985,113.20.16.A
+6201,Humanities,Government,113.20.b.16.B,8,172986,113.20.16.B
+6202,Humanities,Government,113.20.b.17,8,,
+6203,Humanities,Government,113.20.b.17.A,8,172987,113.20.17.A
+6204,Humanities,Government,113.20.b.17.B,8,172988,113.20.17.B
+6205,Humanities,Government,113.20.b.18,8,,
+6206,Humanities,Government,113.20.b.18.A,8,172989,113.20.18.A
+6207,Humanities,Government,113.20.b.18.B,8,172990,113.20.18.B
+6208,Humanities,Government,113.20.b.18.C,8,172991,113.20.18.C
+6209,Humanities,Citizenship,113.20.b.19,8,,
+6210,Humanities,Citizenship,113.20.b.19.A,8,172992,113.20.19.A
+6211,Humanities,Citizenship,113.20.b.19.B,8,172993,113.20.19.B
+6212,Humanities,Citizenship,113.20.b.19.C,8,172994,113.20.19.C
+6213,Humanities,Citizenship,113.20.b.19.D,8,172995,113.20.19.D
+6214,Humanities,Citizenship,113.20.b.19.E,8,172996,113.20.19.E
+6215,Humanities,Citizenship,113.20.b.19.F,8,172997,113.20.19.F
+6140,Humanities,History,113.20.b.2,8,,
+6141,Humanities,History,113.20.b.2.A,8,172934,113.20.2.A
+6142,Humanities,History,113.20.b.2.B,8,172935,113.20.2.B
+6216,Humanities,Citizenship,113.20.b.20,8,,
+6217,Humanities,Citizenship,113.20.b.20.A,8,172998,113.20.20.A
+6218,Humanities,Citizenship,113.20.b.20.B,8,172999,113.20.20.B
+6219,Humanities,Citizenship,113.20.b.20.C,8,173000,113.20.20.C
+6220,Humanities,Citizenship,113.20.b.21,8,,
+6221,Humanities,Citizenship,113.20.b.21.A,8,173001,113.20.21.A
+6222,Humanities,Citizenship,113.20.b.21.B,8,173002,113.20.21.B
+6223,Humanities,Citizenship,113.20.b.21.C,8,173003,113.20.21.C
+6224,Humanities,Citizenship,113.20.b.22,8,,
+6225,Humanities,Citizenship,113.20.b.22.A,8,173004,113.20.22.A
+6229,Humanities,Citizenship,113.20.b.22.B,8,173005,113.20.22.B
+6230,Humanities,Culture,113.20.b.23,8,,
+6226,Humanities,Culture,113.20.b.23.A,8,173006,113.20.23.A
+6227,Humanities,Culture,113.20.b.23.B,8,173007,113.20.23.B
+6228,Humanities,Culture,113.20.b.23.C,8,173008,113.20.23.C
+6231,Humanities,Culture,113.20.b.23.D,8,173009,113.20.23.D
+6232,Humanities,Culture,113.20.b.23.E,8,173010,113.20.23.E
+6233,Humanities,Culture,113.20.b.24,8,,
+6234,Humanities,Culture,113.20.b.24.A,8,173011,113.20.24.A
+6235,Humanities,Culture,113.20.b.24.B,8,173012,113.20.24.B
+6236,Humanities,Culture,113.20.b.25,8,,
+6237,Humanities,Culture,113.20.b.25.A,8,173013,113.20.25.A
+6238,Humanities,Culture,113.20.b.25.B,8,173014,113.20.25.B
+6239,Humanities,Culture,113.20.b.25.C,8,173015,113.20.25.C
+6240,Humanities,Culture,113.20.b.26,8,,
+6241,Humanities,Culture,113.20.b.26.A,8,173016,113.20.26.A
+6242,Humanities,Culture,113.20.b.26.B,8,173017,113.20.26.B
+6243,Humanities,Culture,113.20.b.26.C,8,173018,113.20.26.C
+6244,Humanities,"Science, technology, and society",113.20.b.27,8,,
+6245,Humanities,"Science, technology, and society",113.20.b.27.A,8,173019,113.20.27.A
+6246,Humanities,"Science, technology, and society",113.20.b.27.B,8,173020,113.20.27.B
+6247,Humanities,"Science, technology, and society",113.20.b.27.C,8,173021,113.20.27.C
+6250,Humanities,"Science, technology, and society",113.20.b.27.D,8,173022,113.20.27.D
+6251,Humanities,"Science, technology, and society",113.20.b.28,8,,
+6252,Humanities,"Science, technology, and society",113.20.b.28.A,8,173023,113.20.28.A
+6253,Humanities,"Science, technology, and society",113.20.b.28.B,8,173024,113.20.28.B
+6254,Humanities,Social studies skills,113.20.b.29,8,,
+6255,Humanities,Social studies skills,113.20.b.29.A,8,173025,113.20.29.A
+6256,Humanities,Social studies skills,113.20.b.29.B,8,173026,113.20.29.B
+6257,Humanities,Social studies skills,113.20.b.29.C,8,173027,113.20.29.C
+6258,Humanities,Social studies skills,113.20.b.29.D,8,173028,113.20.29.D
+6259,Humanities,Social studies skills,113.20.b.29.E,8,173029,113.20.29.E
+6260,Humanities,Social studies skills,113.20.b.29.F,8,173030,113.20.29.F
+6261,Humanities,Social studies skills,113.20.b.29.G,8,173031,113.20.29.G
+6262,Humanities,Social studies skills,113.20.b.29.H,8,173032,113.20.29.H
+6263,Humanities,Social studies skills,113.20.b.29.I,8,173033,113.20.29.I
+6264,Humanities,Social studies skills,113.20.b.29.J,8,173034,113.20.29.J
+6143,Humanities,History,113.20.b.3,8,,
+6104,Humanities,History,113.20.b.3.A,8,172936,113.20.3.A
+6144,Humanities,History,113.20.b.3.B,8,172937,113.20.3.B
+6145,Humanities,History,113.20.b.3.C,8,172938,113.20.3.C
+6265,Humanities,Social studies skills,113.20.b.30,8,,
+6266,Humanities,Social studies skills,113.20.b.30.A,8,173035,113.20.30.A
+6267,Humanities,Social studies skills,113.20.b.30.B,8,173036,113.20.30.B
+6271,Humanities,Social studies skills,113.20.b.30.C,8,173037,113.20.30.C
+6268,Humanities,Social studies skills,113.20.b.30.D,8,173038,113.20.30.D
+6272,Humanities,Social studies skills,113.20.b.31,8,,
+6273,Humanities,Social studies skills,113.20.b.31.A,8,173039,113.20.31.A
+6274,Humanities,Social studies skills,113.20.b.31.B,8,173040,113.20.31.B
+6146,Humanities,History,113.20.b.4,8,,
+6147,Humanities,History,113.20.b.4.A,8,172939,113.20.4.A
+6148,Humanities,History,113.20.b.4.B,8,172940,113.20.4.B
+6149,Humanities,History,113.20.b.4.C,8,172941,113.20.4.C
+6150,Humanities,History,113.20.b.4.D,8,172942,113.20.4.D
+6151,Humanities,History,113.20.b.4.E,8,172943,113.20.4.E
+6152,Humanities,History,113.20.b.5,8,,
+6153,Humanities,History,113.20.b.5.A,8,172944,113.20.5.A
+6154,Humanities,History,113.20.b.5.B,8,172945,113.20.5.B
+6155,Humanities,History,113.20.b.5.C,8,172946,113.20.5.C
+6156,Humanities,History,113.20.b.5.D,8,172947,113.20.5.D
+6157,Humanities,History,113.20.b.5.E,8,172948,113.20.5.E
+6158,Humanities,History,113.20.b.5.F,8,172949,113.20.5.F
+6159,Humanities,History,113.20.b.5.G,8,172950,113.20.5.G
+6160,Humanities,History,113.20.b.6,8,,
+6161,Humanities,History,113.20.b.6.A,8,172951,113.20.6.A
+6162,Humanities,History,113.20.b.6.B,8,172952,113.20.6.B
+6163,Humanities,History,113.20.b.6.C,8,172953,113.20.6.C
+6105,Humanities,History,113.20.b.6.D,8,172954,113.20.6.D
+6029,Humanities,History,113.20.b.6.E,8,172955,113.20.6.E
+6030,Humanities,History,113.20.b.7,8,,
+6031,Humanities,History,113.20.b.7.A,8,172956,113.20.7.A
+6032,Humanities,History,113.20.b.7.B,8,172957,113.20.7.B
+6164,Humanities,History,113.20.b.7.C,8,172958,113.20.7.C
+6165,Humanities,History,113.20.b.7.D,8,172959,113.20.7.D
+6166,Humanities,History,113.20.b.8,8,,
+6167,Humanities,History,113.20.b.8.A,8,172960,113.20.8.A
+6168,Humanities,History,113.20.b.8.B,8,172961,113.20.8.B
+6169,Humanities,History,113.20.b.8.C,8,172962,113.20.8.C
+6170,Humanities,History,113.20.b.9,8,,
+6171,Humanities,History,113.20.b.9.A,8,172963,113.20.9.A
+6172,Humanities,History,113.20.b.9.B,8,172964,113.20.9.B
+6173,Humanities,History,113.20.b.9.C,8,172965,113.20.9.C
+6174,Humanities,History,113.20.b.9.D,8,172966,113.20.9.D
+6587,Humanities,History,113.43.c.1,"9, 10, 11, 12",,
+6588,Humanities,History,113.43.c.1.A,"9, 10, 11, 12",173294,113.43.1.A
+6589,Humanities,History,113.43.c.1.B,"9, 10, 11, 12",173295,113.43.1.B
+6623,Humanities,Economics,113.43.c.10,"9, 10, 11, 12",,
+6624,Humanities,Economics,113.43.c.10.A,"9, 10, 11, 12",173317,113.43.10.A
+6625,Humanities,Economics,113.43.c.10.B,"9, 10, 11, 12",173318,113.43.10.B
+6626,Humanities,Economics,113.43.c.10.C,"9, 10, 11, 12",173319,113.43.10.C
+6627,Humanities,Economics,113.43.c.10.D,"9, 10, 11, 12",173320,113.43.10.D
+6628,Humanities,Economics,113.43.c.11,"9, 10, 11, 12",,
+6629,Humanities,Economics,113.43.c.11.A,"9, 10, 11, 12",173321,113.43.11.A
+6630,Humanities,Economics,113.43.c.11.B,"9, 10, 11, 12",173322,113.43.11.B
+6631,Humanities,Economics,113.43.c.11.C,"9, 10, 11, 12",173323,113.43.11.C
+6632,Humanities,Economics,113.43.c.12,"9, 10, 11, 12",,
+6633,Humanities,Economics,113.43.c.12.A,"9, 10, 11, 12",173324,113.43.12.A
+6634,Humanities,Economics,113.43.c.12.B,"9, 10, 11, 12",173325,113.43.12.B
+6635,Humanities,Government,113.43.c.13,"9, 10, 11, 12",,
+6639,Humanities,Government,113.43.c.13.A,"9, 10, 11, 12",173326,113.43.13.A
+6640,Humanities,Government,113.43.c.13.B,"9, 10, 11, 12",173327,113.43.13.B
+6641,Humanities,Government,113.43.c.14,"9, 10, 11, 12",,
+6642,Humanities,Government,113.43.c.14.A,"9, 10, 11, 12",173328,113.43.14.A
+6643,Humanities,Government,113.43.c.14.B,"9, 10, 11, 12",173329,113.43.14.B
+6644,Humanities,Government,113.43.c.14.C,"9, 10, 11, 12",173330,113.43.14.C
+6645,Humanities,Citizenship,113.43.c.15,"9, 10, 11, 12",,
+6646,Humanities,Citizenship,113.43.c.15.A,"9, 10, 11, 12",173331,113.43.15.A
+6647,Humanities,Citizenship,113.43.c.15.B,"9, 10, 11, 12",173332,113.43.15.B
+6648,Humanities,Culture,113.43.c.16,"9, 10, 11, 12",,
+6649,Humanities,Culture,113.43.c.16.A,"9, 10, 11, 12",173333,113.43.16.A
+6650,Humanities,Culture,113.43.c.16.B,"9, 10, 11, 12",173334,113.43.16.B
+6651,Humanities,Culture,113.43.c.16.C,"9, 10, 11, 12",173335,113.43.16.C
+6652,Humanities,Culture,113.43.c.16.D,"9, 10, 11, 12",173336,113.43.16.D
+6653,Humanities,Culture,113.43.c.17,"9, 10, 11, 12",,
+6658,Humanities,Culture,113.43.c.17.A,"9, 10, 11, 12",173337,113.43.17.A
+6654,Humanities,Culture,113.43.c.17.B,"9, 10, 11, 12",173338,113.43.17.B
+6659,Humanities,Culture,113.43.c.17.C,"9, 10, 11, 12",173339,113.43.17.C
+6655,Humanities,Culture,113.43.c.17.D,"9, 10, 11, 12",173340,113.43.17.D
+6656,Humanities,Culture,113.43.c.18,"9, 10, 11, 12",,
+6657,Humanities,Culture,113.43.c.18.A,"9, 10, 11, 12",173341,113.43.18.A
+6636,Humanities,Culture,113.43.c.18.B,"9, 10, 11, 12",173342,113.43.18.B
+6637,Humanities,Culture,113.43.c.18.C,"9, 10, 11, 12",173343,113.43.18.C
+6660,Humanities,Culture,113.43.c.18.D,"9, 10, 11, 12",173344,113.43.18.D
+6661,Humanities,"Science, technology, and society",113.43.c.19,"9, 10, 11, 12",,
+6662,Humanities,"Science, technology, and society",113.43.c.19.A,"9, 10, 11, 12",173345,113.43.19.A
+6663,Humanities,"Science, technology, and society",113.43.c.19.B,"9, 10, 11, 12",173346,113.43.19.B
+6638,Humanities,"Science, technology, and society",113.43.c.19.C,"9, 10, 11, 12",173347,113.43.19.C
+6590,Humanities,History,113.43.c.2,"9, 10, 11, 12",,
+6591,Humanities,History,113.43.c.2.A,"9, 10, 11, 12",173296,113.43.2.A
+6592,Humanities,History,113.43.c.2.B,"9, 10, 11, 12",173297,113.43.2.B
+6664,Humanities,"Science, technology, and society",113.43.c.20,"9, 10, 11, 12",,
+6665,Humanities,"Science, technology, and society",113.43.c.20.A,"9, 10, 11, 12",173348,113.43.20.A
+6666,Humanities,"Science, technology, and society",113.43.c.20.B,"9, 10, 11, 12",173349,113.43.20.B
+6667,Humanities,Social studies skills,113.43.c.21,"9, 10, 11, 12",,
+6668,Humanities,Social studies skills,113.43.c.21.A,"9, 10, 11, 12",173350,113.43.21.A
+6595,Humanities,Social studies skills,113.43.c.21.B,"9, 10, 11, 12",173351,113.43.21.B
+6596,Humanities,Social studies skills,113.43.c.21.C,"9, 10, 11, 12",173352,113.43.21.C
+6597,Humanities,Social studies skills,113.43.c.22,"9, 10, 11, 12",,
+6669,Humanities,Social studies skills,113.43.c.22.A,"9, 10, 11, 12",173353,113.43.22.A
+6598,Humanities,Social studies skills,113.43.c.22.B,"9, 10, 11, 12",173354,113.43.22.B
+6670,Humanities,Social studies skills,113.43.c.22.C,"9, 10, 11, 12",173355,113.43.22.C
+6671,Humanities,Social studies skills,113.43.c.22.D,"9, 10, 11, 12",173356,113.43.22.D
+6672,Humanities,Social studies skills,113.43.c.22.E,"9, 10, 11, 12",173357,113.43.22.E
+6673,Humanities,Social studies skills,113.43.c.23,"9, 10, 11, 12",,
+6677,Humanities,Social studies skills,113.43.c.23.A,"9, 10, 11, 12",173358,113.43.23.A
+6678,Humanities,Social studies skills,113.43.c.23.B,"9, 10, 11, 12",173359,113.43.23.B
+6679,Humanities,Social studies skills,113.43.c.23.C,"9, 10, 11, 12",173360,113.43.23.C
+6593,Humanities,Geography,113.43.c.3,"9, 10, 11, 12",,
+6594,Humanities,Geography,113.43.c.3.A,"9, 10, 11, 12",173298,113.43.3.A
+6599,Humanities,Geography,113.43.c.3.B,"9, 10, 11, 12",173299,113.43.3.B
+6600,Humanities,Geography,113.43.c.3.C,"9, 10, 11, 12",173300,113.43.3.C
+6601,Humanities,Geography,113.43.c.4,"9, 10, 11, 12",,
+6602,Humanities,Geography,113.43.c.4.A,"9, 10, 11, 12",173301,113.43.4.A
+6603,Humanities,Geography,113.43.c.4.B,"9, 10, 11, 12",173302,113.43.4.B
+6604,Humanities,Geography,113.43.c.4.C,"9, 10, 11, 12",173303,113.43.4.C
+6605,Humanities,Geography,113.43.c.5,"9, 10, 11, 12",,
+6606,Humanities,Geography,113.43.c.5.A,"9, 10, 11, 12",173304,113.43.5.A
+6607,Humanities,Geography,113.43.c.5.B,"9, 10, 11, 12",173305,113.43.5.B
+6608,Humanities,Geography,113.43.c.6,"9, 10, 11, 12",,
+6609,Humanities,Geography,113.43.c.6.A,"9, 10, 11, 12",173306,113.43.6.A
+6610,Humanities,Geography,113.43.c.6.B,"9, 10, 11, 12",173307,113.43.6.B
+6611,Humanities,Geography,113.43.c.7,"9, 10, 11, 12",,
+6612,Humanities,Geography,113.43.c.7.A,"9, 10, 11, 12",173308,113.43.7.A
+6613,Humanities,Geography,113.43.c.7.B,"9, 10, 11, 12",173309,113.43.7.B
+6614,Humanities,Geography,113.43.c.7.C,"9, 10, 11, 12",173310,113.43.7.C
+6615,Humanities,Geography,113.43.c.7.D,"9, 10, 11, 12",173311,113.43.7.D
+6616,Humanities,Geography,113.43.c.8,"9, 10, 11, 12",,
+6617,Humanities,Geography,113.43.c.8.A,"9, 10, 11, 12",173312,113.43.8.A
+6619,Humanities,Geography,113.43.c.8.B,"9, 10, 11, 12",173313,113.43.8.B
+6620,Humanities,Geography,113.43.c.8.C,"9, 10, 11, 12",173314,113.43.8.C
+6618,Humanities,Geography,113.43.c.9,"9, 10, 11, 12",,
+6621,Humanities,Geography,113.43.c.9.A,"9, 10, 11, 12",173315,113.43.9.A
+6622,Humanities,Geography,113.43.c.9.B,"9, 10, 11, 12",173316,113.43.9.B
+6443,Humanities,History,113.42.c.1,"9, 10, 11, 12",,
+6444,Humanities,History,113.42.c.1.A,"9, 10, 11, 12",173171,113.42.1.A
+6445,Humanities,History,113.42.c.1.B,"9, 10, 11, 12",173172,113.42.1.B
+6446,Humanities,History,113.42.c.1.C,"9, 10, 11, 12",173173,113.42.1.C
+6447,Humanities,History,113.42.c.1.D,"9, 10, 11, 12",173174,113.42.1.D
+6448,Humanities,History,113.42.c.1.E,"9, 10, 11, 12",173175,113.42.1.E
+6449,Humanities,History,113.42.c.1.F,"9, 10, 11, 12",173176,113.42.1.F
+6484,Humanities,History,113.42.c.10,"9, 10, 11, 12",,
+6485,Humanities,History,113.42.c.10.A,"9, 10, 11, 12",173213,113.42.10.A
+6486,Humanities,History,113.42.c.10.B,"9, 10, 11, 12",173214,113.42.10.B
+6487,Humanities,History,113.42.c.10.C,"9, 10, 11, 12",173215,113.42.10.C
+6488,Humanities,History,113.42.c.10.D,"9, 10, 11, 12",173216,113.42.10.D
+6489,Humanities,History,113.42.c.11,"9, 10, 11, 12",,
+6490,Humanities,History,113.42.c.11.A,"9, 10, 11, 12",173217,113.42.11.A
+6491,Humanities,History,113.42.c.11.B,"9, 10, 11, 12",173218,113.42.11.B
+6492,Humanities,History,113.42.c.12,"9, 10, 11, 12",,
+6493,Humanities,History,113.42.c.12.A,"9, 10, 11, 12",173219,113.42.12.A
+6494,Humanities,History,113.42.c.12.B,"9, 10, 11, 12",173220,113.42.12.B
+6495,Humanities,History,113.42.c.12.C,"9, 10, 11, 12",173221,113.42.12.C
+6496,Humanities,History,113.42.c.13,"9, 10, 11, 12",,
+6497,Humanities,History,113.42.c.13.A,"9, 10, 11, 12",173222,113.42.13.A
+6498,Humanities,History,113.42.c.13.B,"9, 10, 11, 12",173223,113.42.13.B
+6499,Humanities,History,113.42.c.13.C,"9, 10, 11, 12",173224,113.42.13.C
+6501,Humanities,History,113.42.c.13.D,"9, 10, 11, 12",173225,113.42.13.D
+6500,Humanities,History,113.42.c.13.E,"9, 10, 11, 12",173226,113.42.13.E
+6502,Humanities,History,113.42.c.13.F,"9, 10, 11, 12",173227,113.42.13.F
+6503,Humanities,History,113.42.c.14,"9, 10, 11, 12",,
+6504,Humanities,History,113.42.c.14.A,"9, 10, 11, 12",173228,113.42.14.A
+6505,Humanities,History,113.42.c.14.B,"9, 10, 11, 12",173229,113.42.14.B
+6506,Humanities,Geography,113.42.c.15,"9, 10, 11, 12",,
+6507,Humanities,Geography,113.42.c.15.A,"9, 10, 11, 12",173230,113.42.15.A
+6508,Humanities,Geography,113.42.c.15.B,"9, 10, 11, 12",173231,113.42.15.B
+6509,Humanities,Geography,113.42.c.16,"9, 10, 11, 12",,
+6510,Humanities,Geography,113.42.c.16.A,"9, 10, 11, 12",173232,113.42.16.A
+6511,Humanities,Geography,113.42.c.16.B,"9, 10, 11, 12",173233,113.42.16.B
+6512,Humanities,Geography,113.42.c.16.C,"9, 10, 11, 12",173234,113.42.16.C
+6513,Humanities,Economics,113.42.c.17,"9, 10, 11, 12",,
+6514,Humanities,Economics,113.42.c.17.A,"9, 10, 11, 12",173235,113.42.17.A
+6515,Humanities,Economics,113.42.c.17.B,"9, 10, 11, 12",173236,113.42.17.B
+6516,Humanities,Economics,113.42.c.17.C,"9, 10, 11, 12",173237,113.42.17.C
+6517,Humanities,Economics,113.42.c.18,"9, 10, 11, 12",,
+6518,Humanities,Economics,113.42.c.18.A,"9, 10, 11, 12",173238,113.42.18.A
+6519,Humanities,Economics,113.42.c.18.B,"9, 10, 11, 12",173239,113.42.18.B
+6520,Humanities,Economics,113.42.c.18.C,"9, 10, 11, 12",173240,113.42.18.C
+6521,Humanities,Economics,113.42.c.18.D,"9, 10, 11, 12",173241,113.42.18.D
+6522,Humanities,Economics,113.42.c.18.E,"9, 10, 11, 12",173242,113.42.18.E
+6523,Humanities,Economics,113.42.c.18.F,"9, 10, 11, 12",173243,113.42.18.F
+6524,Humanities,Government,113.42.c.19,"9, 10, 11, 12",,
+6525,Humanities,Government,113.42.c.19.A,"9, 10, 11, 12",173244,113.42.19.A
+6526,Humanities,Government,113.42.c.19.B,"9, 10, 11, 12",173245,113.42.19.B
+6450,Humanities,History,113.42.c.2,"9, 10, 11, 12",,
+6451,Humanities,History,113.42.c.2.A,"9, 10, 11, 12",173177,113.42.2.A
+6452,Humanities,History,113.42.c.2.B,"9, 10, 11, 12",173178,113.42.2.B
+6453,Humanities,History,113.42.c.2.C,"9, 10, 11, 12",173179,113.42.2.C
+6527,Humanities,Government,113.42.c.20,"9, 10, 11, 12",,
+6528,Humanities,Government,113.42.c.20.A,"9, 10, 11, 12",173246,113.42.20.A
+6529,Humanities,Government,113.42.c.20.B,"9, 10, 11, 12",173247,113.42.20.B
+6530,Humanities,Government,113.42.c.20.C,"9, 10, 11, 12",173248,113.42.20.C
+6531,Humanities,Government,113.42.c.20.D,"9, 10, 11, 12",173249,113.42.20.D
+6532,Humanities,Citizenship,113.42.c.21,"9, 10, 11, 12",,
+6533,Humanities,Citizenship,113.42.c.21.A,"9, 10, 11, 12",173250,113.42.21.A
+6534,Humanities,Citizenship,113.42.c.21.B,"9, 10, 11, 12",173251,113.42.21.B
+6535,Humanities,Citizenship,113.42.c.21.C,"9, 10, 11, 12",173252,113.42.21.C
+6536,Humanities,Citizenship,113.42.c.22,"9, 10, 11, 12",,
+6537,Humanities,Citizenship,113.42.c.22.A,"9, 10, 11, 12",173253,113.42.22.A
+6541,Humanities,Citizenship,113.42.c.22.B,"9, 10, 11, 12",173254,113.42.22.B
+6538,Humanities,Citizenship,113.42.c.22.C,"9, 10, 11, 12",173255,113.42.22.C
+6539,Humanities,Citizenship,113.42.c.22.D,"9, 10, 11, 12",173256,113.42.22.D
+6542,Humanities,Citizenship,113.42.c.22.E,"9, 10, 11, 12",173257,113.42.22.E
+6540,Humanities,Citizenship,113.42.c.22.F,"9, 10, 11, 12",173258,113.42.22.F
+6543,Humanities,Culture,113.42.c.23,"9, 10, 11, 12",,
+6544,Humanities,Culture,113.42.c.23.A,"9, 10, 11, 12",173259,113.42.23.A
+6545,Humanities,Culture,113.42.c.23.B,"9, 10, 11, 12",173260,113.42.23.B
+6546,Humanities,Culture,113.42.c.24,"9, 10, 11, 12",,
+6547,Humanities,Culture,113.42.c.24.A,"9, 10, 11, 12",173261,113.42.24.A
+6548,Humanities,Culture,113.42.c.24.B,"9, 10, 11, 12",173262,113.42.24.B
+6549,Humanities,Culture,113.42.c.25,"9, 10, 11, 12",,
+6550,Humanities,Culture,113.42.c.25.A,"9, 10, 11, 12",173263,113.42.25.A
+6551,Humanities,Culture,113.42.c.25.B,"9, 10, 11, 12",173264,113.42.25.B
+6552,Humanities,Culture,113.42.c.25.C,"9, 10, 11, 12",173265,113.42.25.C
+6553,Humanities,Culture,113.42.c.25.D,"9, 10, 11, 12",173266,113.42.25.D
+6554,Humanities,Culture,113.42.c.26,"9, 10, 11, 12",,
+6555,Humanities,Culture,113.42.c.26.A,"9, 10, 11, 12",173267,113.42.26.A
+6556,Humanities,Culture,113.42.c.26.B,"9, 10, 11, 12",173268,113.42.26.B
+6557,Humanities,Culture,113.42.c.26.C,"9, 10, 11, 12",173269,113.42.26.C
+6562,Humanities,"Science, technology, and society",113.42.c.27,"9, 10, 11, 12",,
+6563,Humanities,"Science, technology, and society",113.42.c.27.A,"9, 10, 11, 12",173270,113.42.27.A
+6564,Humanities,"Science, technology, and society",113.42.c.27.B,"9, 10, 11, 12",173271,113.42.27.B
+6565,Humanities,"Science, technology, and society",113.42.c.27.C,"9, 10, 11, 12",173272,113.42.27.C
+6566,Humanities,"Science, technology, and society",113.42.c.27.D,"9, 10, 11, 12",173273,113.42.27.D
+6567,Humanities,"Science, technology, and society",113.42.c.27.E,"9, 10, 11, 12",173274,113.42.27.E
+6568,Humanities,"Science, technology, and society",113.42.c.28,"9, 10, 11, 12",,
+6569,Humanities,"Science, technology, and society",113.42.c.28.A,"9, 10, 11, 12",173275,113.42.28.A
+6570,Humanities,"Science, technology, and society",113.42.c.28.B,"9, 10, 11, 12",173276,113.42.28.B
+6571,Humanities,"Science, technology, and society",113.42.c.28.C,"9, 10, 11, 12",173277,113.42.28.C
+6572,Humanities,"Science, technology, and society",113.42.c.28.D,"9, 10, 11, 12",173278,113.42.28.D
+6573,Humanities,"Science, technology, and society",113.42.c.28.E,"9, 10, 11, 12",173279,113.42.28.E
+6574,Humanities,Social studies skills,113.42.c.29,"9, 10, 11, 12",,
+6575,Humanities,Social studies skills,113.42.c.29.A,"9, 10, 11, 12",173280,113.42.29.A
+6580,Humanities,Social studies skills,113.42.c.29.B,"9, 10, 11, 12",173281,113.42.29.B
+6581,Humanities,Social studies skills,113.42.c.29.C,"9, 10, 11, 12",173282,113.42.29.C
+6576,Humanities,Social studies skills,113.42.c.29.D,"9, 10, 11, 12",173283,113.42.29.D
+6577,Humanities,Social studies skills,113.42.c.29.E,"9, 10, 11, 12",173284,113.42.29.E
+6582,Humanities,Social studies skills,113.42.c.29.F,"9, 10, 11, 12",173285,113.42.29.F
+6578,Humanities,Social studies skills,113.42.c.29.G,"9, 10, 11, 12",173286,113.42.29.G
+6579,Humanities,Social studies skills,113.42.c.29.H,"9, 10, 11, 12",173287,113.42.29.H
+6456,Humanities,History,113.42.c.3,"9, 10, 11, 12",,
+6457,Humanities,History,113.42.c.3.A,"9, 10, 11, 12",173180,113.42.3.A
+6454,Humanities,History,113.42.c.3.B,"9, 10, 11, 12",173181,113.42.3.B
+6455,Humanities,History,113.42.c.3.C,"9, 10, 11, 12",173182,113.42.3.C
+6558,Humanities,Social studies skills,113.42.c.30,"9, 10, 11, 12",,
+6559,Humanities,Social studies skills,113.42.c.30.A,"9, 10, 11, 12",173288,113.42.30.A
+6560,Humanities,Social studies skills,113.42.c.30.B,"9, 10, 11, 12",173289,113.42.30.B
+6561,Humanities,Social studies skills,113.42.c.30.C,"9, 10, 11, 12",173290,113.42.30.C
+6583,Humanities,Social studies skills,113.42.c.30.D,"9, 10, 11, 12",173291,113.42.30.D
+6584,Humanities,Social studies skills,113.42.c.31,"9, 10, 11, 12",,
+6585,Humanities,Social studies skills,113.42.c.31.A,"9, 10, 11, 12",173292,113.42.31.A
+6586,Humanities,Social studies skills,113.42.c.31.B,"9, 10, 11, 12",173293,113.42.31.B
+6458,Humanities,History,113.42.c.4,"9, 10, 11, 12",,
+6417,Humanities,History,113.42.c.4.A,"9, 10, 11, 12",173183,113.42.4.A
+6418,Humanities,History,113.42.c.4.B,"9, 10, 11, 12",173184,113.42.4.B
+6459,Humanities,History,113.42.c.4.C,"9, 10, 11, 12",173185,113.42.4.C
+6419,Humanities,History,113.42.c.4.D,"9, 10, 11, 12",173186,113.42.4.D
+6420,Humanities,History,113.42.c.4.E,"9, 10, 11, 12",173187,113.42.4.E
+6287,Humanities,History,113.42.c.4.F,"9, 10, 11, 12",173188,113.42.4.F
+6288,Humanities,History,113.42.c.4.G,"9, 10, 11, 12",173189,113.42.4.G
+6379,Humanities,History,113.42.c.4.H,"9, 10, 11, 12",173190,113.42.4.H
+6380,Humanities,History,113.42.c.4.I,"9, 10, 11, 12",173191,113.42.4.I
+6381,Humanities,History,113.42.c.4.J,"9, 10, 11, 12",173192,113.42.4.J
+6382,Humanities,History,113.42.c.4.K,"9, 10, 11, 12",173193,113.42.4.K
+6460,Humanities,History,113.42.c.5,"9, 10, 11, 12",,
+6461,Humanities,History,113.42.c.5.A,"9, 10, 11, 12",173194,113.42.5.A
+6462,Humanities,History,113.42.c.5.B,"9, 10, 11, 12",173195,113.42.5.B
+6463,Humanities,History,113.42.c.6,"9, 10, 11, 12",,
+6464,Humanities,History,113.42.c.6.A,"9, 10, 11, 12",173196,113.42.6.A
+6465,Humanities,History,113.42.c.6.B,"9, 10, 11, 12",173197,113.42.6.B
+6466,Humanities,History,113.42.c.7,"9, 10, 11, 12",,
+6467,Humanities,History,113.42.c.7.A,"9, 10, 11, 12",173198,113.42.7.A
+6468,Humanities,History,113.42.c.7.B,"9, 10, 11, 12",173199,113.42.7.B
+6469,Humanities,History,113.42.c.7.C,"9, 10, 11, 12",173200,113.42.7.C
+6470,Humanities,History,113.42.c.7.D,"9, 10, 11, 12",173201,113.42.7.D
+6471,Humanities,History,113.42.c.7.E,"9, 10, 11, 12",173202,113.42.7.E
+6472,Humanities,History,113.42.c.7.F,"9, 10, 11, 12",173203,113.42.7.F
+6473,Humanities,History,113.42.c.8,"9, 10, 11, 12",,
+6474,Humanities,History,113.42.c.8.A,"9, 10, 11, 12",173204,113.42.8.A
+6475,Humanities,History,113.42.c.8.B,"9, 10, 11, 12",173205,113.42.8.B
+6476,Humanities,History,113.42.c.8.C,"9, 10, 11, 12",173206,113.42.8.C
+6477,Humanities,History,113.42.c.8.D,"9, 10, 11, 12",173207,113.42.8.D
+6478,Humanities,History,113.42.c.8.E,"9, 10, 11, 12",173208,113.42.8.E
+6479,Humanities,History,113.42.c.9,"9, 10, 11, 12",,
+6480,Humanities,History,113.42.c.9.A,"9, 10, 11, 12",173209,113.42.9.A
+6481,Humanities,History,113.42.c.9.B,"9, 10, 11, 12",173210,113.42.9.B
+6482,Humanities,History,113.42.c.9.C,"9, 10, 11, 12",173211,113.42.9.C
+6483,Humanities,History,113.42.c.9.D,"9, 10, 11, 12",173212,113.42.9.D
+6680,Humanities,History,113.44.c.1,"9, 10, 11, 12",,
+6681,Humanities,History,113.44.c.1.A,"9, 10, 11, 12",173361,113.44.1.A
+6682,Humanities,History,113.44.c.1.B,"9, 10, 11, 12",173362,113.44.1.B
+6683,Humanities,History,113.44.c.1.C,"9, 10, 11, 12",173363,113.44.1.C
+6684,Humanities,History,113.44.c.1.D,"9, 10, 11, 12",173364,113.44.1.D
+6685,Humanities,History,113.44.c.1.E,"9, 10, 11, 12",173365,113.44.1.E
+6686,Humanities,History,113.44.c.1.F,"9, 10, 11, 12",173366,113.44.1.F
+6724,Humanities,Government,113.44.c.10,"9, 10, 11, 12",,
+6725,Humanities,Government,113.44.c.10.A,"9, 10, 11, 12",173399,113.44.10.A
+6726,Humanities,Government,113.44.c.10.B,"9, 10, 11, 12",173400,113.44.10.B
+6727,Humanities,Government,113.44.c.10.C,"9, 10, 11, 12",173401,113.44.10.C
+6728,Humanities,Government,113.44.c.11,"9, 10, 11, 12",,
+6729,Humanities,Government,113.44.c.11.A,"9, 10, 11, 12",173402,113.44.11.A
+6730,Humanities,Government,113.44.c.11.B,"9, 10, 11, 12",173403,113.44.11.B
+6731,Humanities,Government,113.44.c.11.C,"9, 10, 11, 12",173404,113.44.11.C
+6735,Humanities,Government,113.44.c.12,"9, 10, 11, 12",,
+6736,Humanities,Government,113.44.c.12.A,"9, 10, 11, 12",173405,113.44.12.A
+6737,Humanities,Government,113.44.c.12.B,"9, 10, 11, 12",173406,113.44.12.B
+6738,Humanities,Government,113.44.c.12.C,"9, 10, 11, 12",173407,113.44.12.C
+6739,Humanities,Citizenship,113.44.c.13,"9, 10, 11, 12",,
+6740,Humanities,Citizenship,113.44.c.13.A,"9, 10, 11, 12",173408,113.44.13.A
+6741,Humanities,Citizenship,113.44.c.13.B,"9, 10, 11, 12",173409,113.44.13.B
+6742,Humanities,Citizenship,113.44.c.13.C,"9, 10, 11, 12",173410,113.44.13.C
+6743,Humanities,Citizenship,113.44.c.13.D,"9, 10, 11, 12",173411,113.44.13.D
+6744,Humanities,Citizenship,113.44.c.13.E,"9, 10, 11, 12",173412,113.44.13.E
+6745,Humanities,Citizenship,113.44.c.13.F,"9, 10, 11, 12",173413,113.44.13.F
+6746,Humanities,Citizenship,113.44.c.14,"9, 10, 11, 12",,
+6747,Humanities,Citizenship,113.44.c.14.A,"9, 10, 11, 12",173414,113.44.14.A
+6748,Humanities,Citizenship,113.44.c.14.B,"9, 10, 11, 12",173415,113.44.14.B
+6749,Humanities,Citizenship,113.44.c.14.C,"9, 10, 11, 12",173416,113.44.14.C
+6750,Humanities,Citizenship,113.44.c.14.D,"9, 10, 11, 12",173417,113.44.14.D
+6751,Humanities,Citizenship,113.44.c.15,"9, 10, 11, 12",,
+6752,Humanities,Citizenship,113.44.c.15.A,"9, 10, 11, 12",173418,113.44.15.A
+6753,Humanities,Citizenship,113.44.c.15.B,"9, 10, 11, 12",173419,113.44.15.B
+6754,Humanities,Citizenship,113.44.c.15.C,"9, 10, 11, 12",173420,113.44.15.C
+6756,Humanities,Citizenship,113.44.c.16,"9, 10, 11, 12",,
+6757,Humanities,Citizenship,113.44.c.16.A,"9, 10, 11, 12",173421,113.44.16.A
+6758,Humanities,Citizenship,113.44.c.16.B,"9, 10, 11, 12",173422,113.44.16.B
+6755,Humanities,Culture,113.44.c.17,"9, 10, 11, 12",,
+6759,Humanities,Culture,113.44.c.17.A,"9, 10, 11, 12",173423,113.44.17.A
+6760,Humanities,Culture,113.44.c.17.B,"9, 10, 11, 12",173424,113.44.17.B
+6761,Humanities,"Science, technology, and society",113.44.c.18,"9, 10, 11, 12",,
+6732,Humanities,"Science, technology, and society",113.44.c.18.A,"9, 10, 11, 12",173425,113.44.18.A
+6762,Humanities,"Science, technology, and society",113.44.c.18.B,"9, 10, 11, 12",173426,113.44.18.B
+6763,Humanities,"Science, technology, and society",113.44.c.19,"9, 10, 11, 12",,
+6733,Humanities,"Science, technology, and society",113.44.c.19.A,"9, 10, 11, 12",173427,113.44.19.A
+6734,Humanities,"Science, technology, and society",113.44.c.19.B,"9, 10, 11, 12",173428,113.44.19.B
+6687,Humanities,History,113.44.c.2,"9, 10, 11, 12",,
+6688,Humanities,History,113.44.c.2.A,"9, 10, 11, 12",173367,113.44.2.A
+6689,Humanities,History,113.44.c.2.B,"9, 10, 11, 12",173368,113.44.2.B
+6764,Humanities,Social studies skills,113.44.c.20,"9, 10, 11, 12",,
+6765,Humanities,Social studies skills,113.44.c.20.A,"9, 10, 11, 12",173429,113.44.20.A
+6766,Humanities,Social studies skills,113.44.c.20.B,"9, 10, 11, 12",173430,113.44.20.B
+6767,Humanities,Social studies skills,113.44.c.20.C,"9, 10, 11, 12",173431,113.44.20.C
+6768,Humanities,Social studies skills,113.44.c.20.D,"9, 10, 11, 12",173432,113.44.20.D
+6769,Humanities,Social studies skills,113.44.c.20.E,"9, 10, 11, 12",173433,113.44.20.E
+6770,Humanities,Social studies skills,113.44.c.20.F,"9, 10, 11, 12",173434,113.44.20.F
+6771,Humanities,Social studies skills,113.44.c.21,"9, 10, 11, 12",,
+6772,Humanities,Social studies skills,113.44.c.21.A,"9, 10, 11, 12",173435,113.44.21.A
+6773,Humanities,Social studies skills,113.44.c.21.B,"9, 10, 11, 12",173436,113.44.21.B
+6774,Humanities,Social studies skills,113.44.c.21.C,"9, 10, 11, 12",173437,113.44.21.C
+6775,Humanities,Social studies skills,113.44.c.21.D,"9, 10, 11, 12",173438,113.44.21.D
+6776,Humanities,Social studies skills,113.44.c.22,"9, 10, 11, 12",,
+6777,Humanities,Social studies skills,113.44.c.22.A,"9, 10, 11, 12",173439,113.44.22.A
+6778,Humanities,Social studies skills,113.44.c.22.B,"9, 10, 11, 12",173440,113.44.22.B
+6690,Humanities,Geography,113.44.c.3,"9, 10, 11, 12",,
+6691,Humanities,Geography,113.44.c.3.A,"9, 10, 11, 12",173369,113.44.3.A
+6692,Humanities,Geography,113.44.c.3.B,"9, 10, 11, 12",173370,113.44.3.B
+6693,Humanities,Geography,113.44.c.3.C,"9, 10, 11, 12",173371,113.44.3.C
+6674,Humanities,Geography,113.44.c.4,"9, 10, 11, 12",,
+6675,Humanities,Geography,113.44.c.4.A,"9, 10, 11, 12",173372,113.44.4.A
+6676,Humanities,Geography,113.44.c.4.B,"9, 10, 11, 12",173373,113.44.4.B
+6694,Humanities,Economics,113.44.c.5,"9, 10, 11, 12",,
+6695,Humanities,Economics,113.44.c.5.A,"9, 10, 11, 12",173374,113.44.5.A
+6696,Humanities,Economics,113.44.c.5.B,"9, 10, 11, 12",173375,113.44.5.B
+6697,Humanities,Economics,113.44.c.5.C,"9, 10, 11, 12",173376,113.44.5.C
+6698,Humanities,Economics,113.44.c.5.D,"9, 10, 11, 12",173377,113.44.5.D
+6699,Humanities,Economics,113.44.c.6,"9, 10, 11, 12",,
+6700,Humanities,Economics,113.44.c.6.A,"9, 10, 11, 12",173378,113.44.6.A
+6701,Humanities,Economics,113.44.c.6.B,"9, 10, 11, 12",173379,113.44.6.B
+6702,Humanities,Government,113.44.c.7,"9, 10, 11, 12",,
+6703,Humanities,Government,113.44.c.7.A,"9, 10, 11, 12",173380,113.44.7.A
+6704,Humanities,Government,113.44.c.7.B,"9, 10, 11, 12",173381,113.44.7.B
+6705,Humanities,Government,113.44.c.7.C,"9, 10, 11, 12",173382,113.44.7.C
+6706,Humanities,Government,113.44.c.7.D,"9, 10, 11, 12",173383,113.44.7.D
+6707,Humanities,Government,113.44.c.7.E,"9, 10, 11, 12",173384,113.44.7.E
+6708,Humanities,Government,113.44.c.7.F,"9, 10, 11, 12",173385,113.44.7.F
+6709,Humanities,Government,113.44.c.7.G,"9, 10, 11, 12",173386,113.44.7.G
+6710,Humanities,Government,113.44.c.8,"9, 10, 11, 12",,
+6714,Humanities,Government,113.44.c.8.A,"9, 10, 11, 12",173387,113.44.8.A
+6715,Humanities,Government,113.44.c.8.B,"9, 10, 11, 12",173388,113.44.8.B
+6716,Humanities,Government,113.44.c.8.C,"9, 10, 11, 12",173389,113.44.8.C
+6717,Humanities,Government,113.44.c.8.D,"9, 10, 11, 12",173390,113.44.8.D
+6711,Humanities,Government,113.44.c.8.E,"9, 10, 11, 12",173391,113.44.8.E
+6712,Humanities,Government,113.44.c.8.F,"9, 10, 11, 12",173392,113.44.8.F
+6713,Humanities,Government,113.44.c.8.G,"9, 10, 11, 12",173393,113.44.8.G
+6718,Humanities,Government,113.44.c.8.H,"9, 10, 11, 12",173394,113.44.8.H
+6719,Humanities,Government,113.44.c.9,"9, 10, 11, 12",,
+6720,Humanities,Government,113.44.c.9.A,"9, 10, 11, 12",173395,113.44.9.A
+6721,Humanities,Government,113.44.c.9.B,"9, 10, 11, 12",173396,113.44.9.B
+6722,Humanities,Government,113.44.c.9.C,"9, 10, 11, 12",173397,113.44.9.C
+6723,Humanities,Government,113.44.c.9.D,"9, 10, 11, 12",173398,113.44.9.D
+10227,Economics,Economics,118.4.c.1,"9, 10, 11, 12",,
+10228,Economics,Economics,118.4.c.1.A,"9, 10, 11, 12",173647,118.4.1.A
+10229,Economics,Economics,118.4.c.1.B,"9, 10, 11, 12",173648,118.4.1.B
+10230,Economics,Economics,118.4.c.1.C,"9, 10, 11, 12",173649,118.4.1.C
+10202,Economics,Economics,118.4.c.1.D,"9, 10, 11, 12",173650,118.4.1.D
+10260,Economics,Economics,118.4.c.10,"9, 10, 11, 12",,
+10261,Economics,Economics,118.4.c.10.A,"9, 10, 11, 12",173676,118.4.10.A
+10262,Economics,Economics,118.4.c.10.B,"9, 10, 11, 12",173677,118.4.10.B
+10263,Economics,Economics,118.4.c.11,"9, 10, 11, 12",,
+10264,Economics,Economics,118.4.c.11.A,"9, 10, 11, 12",173678,118.4.11.A
+10265,Economics,Economics,118.4.c.11.B,"9, 10, 11, 12",173679,118.4.11.B
+10266,Economics,Economics,118.4.c.11.C,"9, 10, 11, 12",173680,118.4.11.C
+10267,Economics,Economics,118.4.c.12,"9, 10, 11, 12",,
+10268,Economics,Economics,118.4.c.12.A,"9, 10, 11, 12",173681,118.4.12.A
+10269,Economics,Economics,118.4.c.12.B,"9, 10, 11, 12",173682,118.4.12.B
+10270,Economics,Economics,118.4.c.12.C,"9, 10, 11, 12",173683,118.4.12.C
+10271,Economics,Economics,118.4.c.13,"9, 10, 11, 12",,
+10272,Economics,Economics,118.4.c.13.A,"9, 10, 11, 12",173684,118.4.13.A
+10273,Economics,Economics,118.4.c.13.B,"9, 10, 11, 12",173685,118.4.13.B
+10274,Economics,Economics,118.4.c.13.C,"9, 10, 11, 12",173686,118.4.13.C
+10275,Economics,Economics,118.4.c.13.D,"9, 10, 11, 12",173687,118.4.13.D
+10276,Economics,Economics,118.4.c.14,"9, 10, 11, 12",,
+10277,Economics,Economics,118.4.c.14.A,"9, 10, 11, 12",173688,118.4.14.A
+10278,Economics,Economics,118.4.c.14.B,"9, 10, 11, 12",173689,118.4.14.B
+10279,Economics,Economics,118.4.c.14.C,"9, 10, 11, 12",173690,118.4.14.C
+10280,Economics,Economics,118.4.c.15,"9, 10, 11, 12",,
+10163,Economics,Economics,118.4.c.15.A,"9, 10, 11, 12",173691,118.4.15.A
+10164,Economics,Economics,118.4.c.15.B,"9, 10, 11, 12",173692,118.4.15.B
+10085,Economics,Economics,118.4.c.15.C,"9, 10, 11, 12",173693,118.4.15.C
+10086,Economics,Personal financial literacy,118.4.c.16,"9, 10, 11, 12",,
+10281,Economics,Personal financial literacy,118.4.c.16.A,"9, 10, 11, 12",173694,118.4.16.A
+10282,Economics,Personal financial literacy,118.4.c.16.B,"9, 10, 11, 12",173695,118.4.16.B
+10283,Economics,Personal financial literacy,118.4.c.16.C,"9, 10, 11, 12",173696,118.4.16.C
+10284,Economics,Personal financial literacy,118.4.c.16.D,"9, 10, 11, 12",173697,118.4.16.D
+10285,Economics,Personal financial literacy,118.4.c.17,"9, 10, 11, 12",,
+10286,Economics,Personal financial literacy,118.4.c.17.A,"9, 10, 11, 12",173698,118.4.17.A
+10287,Economics,Personal financial literacy,118.4.c.17.B,"9, 10, 11, 12",173699,118.4.17.B
+10288,Economics,Personal financial literacy,118.4.c.17.C,"9, 10, 11, 12",173700,118.4.17.C
+10289,Economics,Personal financial literacy,118.4.c.17.D,"9, 10, 11, 12",173701,118.4.17.D
+10290,Economics,Personal financial literacy,118.4.c.18,"9, 10, 11, 12",,
+10291,Economics,Personal financial literacy,118.4.c.18.A,"9, 10, 11, 12",173702,118.4.18.A
+10292,Economics,Personal financial literacy,118.4.c.18.B,"9, 10, 11, 12",173703,118.4.18.B
+10293,Economics,Personal financial literacy,118.4.c.18.C,"9, 10, 11, 12",173704,118.4.18.C
+10294,Economics,Personal financial literacy,118.4.c.18.D,"9, 10, 11, 12",173705,118.4.18.D
+10295,Economics,Personal financial literacy,118.4.c.18.E,"9, 10, 11, 12",173706,118.4.18.E
+10296,Economics,Personal financial literacy,118.4.c.18.F,"9, 10, 11, 12",173707,118.4.18.F
+10297,Economics,Personal financial literacy,118.4.c.18.G,"9, 10, 11, 12",173708,118.4.18.G
+10298,Economics,Personal financial literacy,118.4.c.19,"9, 10, 11, 12",,
+10299,Economics,Personal financial literacy,118.4.c.19.A,"9, 10, 11, 12",173709,118.4.19.A
+10300,Economics,Personal financial literacy,118.4.c.19.B,"9, 10, 11, 12",173710,118.4.19.B
+10301,Economics,Personal financial literacy,118.4.c.19.C,"9, 10, 11, 12",173711,118.4.19.C
+10302,Economics,Personal financial literacy,118.4.c.19.D,"9, 10, 11, 12",173712,118.4.19.D
+10203,Economics,Economics,118.4.c.2,"9, 10, 11, 12",,
+10204,Economics,Economics,118.4.c.2.A,"9, 10, 11, 12",173651,118.4.2.A
+10205,Economics,Economics,118.4.c.2.B,"9, 10, 11, 12",173652,118.4.2.B
+10162,Economics,Economics,118.4.c.2.C,"9, 10, 11, 12",173653,118.4.2.C
+10306,Economics,Personal financial literacy,118.4.c.20,"9, 10, 11, 12",,
+10303,Economics,Personal financial literacy,118.4.c.20.A,"9, 10, 11, 12",173713,118.4.20.A
+10304,Economics,Personal financial literacy,118.4.c.20.B,"9, 10, 11, 12",173714,118.4.20.B
+10305,Economics,Personal financial literacy,118.4.c.20.C,"9, 10, 11, 12",173715,118.4.20.C
+10307,Economics,Personal financial literacy,118.4.c.21,"9, 10, 11, 12",,
+10308,Economics,Personal financial literacy,118.4.c.21.A,"9, 10, 11, 12",173716,118.4.21.A
+10309,Economics,Personal financial literacy,118.4.c.21.B,"9, 10, 11, 12",173717,118.4.21.B
+10310,Economics,Personal financial literacy,118.4.c.21.C,"9, 10, 11, 12",173718,118.4.21.C
+10311,Economics,Personal financial literacy,118.4.c.21.D,"9, 10, 11, 12",173719,118.4.21.D
+10312,Economics,Personal financial literacy,118.4.c.21.E,"9, 10, 11, 12",173720,118.4.21.E
+10313,Economics,Personal financial literacy,118.4.c.21.F,"9, 10, 11, 12",173721,118.4.21.F
+10314,Economics,Social studies skills,118.4.c.22,"9, 10, 11, 12",,
+10315,Economics,Social studies skills,118.4.c.22.A,"9, 10, 11, 12",173722,118.4.22.A
+10316,Economics,Social studies skills,118.4.c.22.B,"9, 10, 11, 12",173723,118.4.22.B
+10317,Economics,Social studies skills,118.4.c.22.C,"9, 10, 11, 12",173724,118.4.22.C
+10318,Economics,Social studies skills,118.4.c.22.D,"9, 10, 11, 12",173725,118.4.22.D
+10319,Economics,Social studies skills,118.4.c.22.E,"9, 10, 11, 12",173726,118.4.22.E
+10320,Economics,Social studies skills,118.4.c.22.F,"9, 10, 11, 12",175852,118.4.22.F
+10321,Economics,Social studies skills,118.4.c.23,"9, 10, 11, 12",,
+10322,Economics,Social studies skills,118.4.c.23.A,"9, 10, 11, 12",173727,118.4.23.A
+10323,Economics,Social studies skills,118.4.c.23.B,"9, 10, 11, 12",173728,118.4.23.B
+10328,Economics,Social studies skills,118.4.c.23.C,"9, 10, 11, 12",175853,118.4.23.C
+10329,Economics,Social studies skills,118.4.c.23.D,"9, 10, 11, 12",175854,118.4.23.D
+10330,Economics,Social studies skills,118.4.c.23.E,"9, 10, 11, 12",175855,118.4.23.E
+10331,Economics,Social studies skills,118.4.c.24,"9, 10, 11, 12",,
+10332,Economics,Social studies skills,118.4.c.24.A,"9, 10, 11, 12",175856,118.4.24.A
+10333,Economics,Social studies skills,118.4.c.24.B,"9, 10, 11, 12",175857,118.4.24.B
+10231,Economics,Economics,118.4.c.3,"9, 10, 11, 12",,
+10232,Economics,Economics,118.4.c.3.A,"9, 10, 11, 12",173654,118.4.3.A
+10233,Economics,Economics,118.4.c.3.B,"9, 10, 11, 12",173655,118.4.3.B
+10234,Economics,Economics,118.4.c.3.C,"9, 10, 11, 12",173656,118.4.3.C
+10235,Economics,Economics,118.4.c.4,"9, 10, 11, 12",,
+10236,Economics,Economics,118.4.c.4.A,"9, 10, 11, 12",173657,118.4.4.A
+10237,Economics,Economics,118.4.c.4.B,"9, 10, 11, 12",173658,118.4.4.B
+10238,Economics,Economics,118.4.c.4.C,"9, 10, 11, 12",173659,118.4.4.C
+10239,Economics,Economics,118.4.c.5,"9, 10, 11, 12",,
+10240,Economics,Economics,118.4.c.5.A,"9, 10, 11, 12",173660,118.4.5.A
+10241,Economics,Economics,118.4.c.5.B,"9, 10, 11, 12",173661,118.4.5.B
+10242,Economics,Economics,118.4.c.5.C,"9, 10, 11, 12",173662,118.4.5.C
+10243,Economics,Economics,118.4.c.5.D,"9, 10, 11, 12",173663,118.4.5.D
+10244,Economics,Economics,118.4.c.5.E,"9, 10, 11, 12",173664,118.4.5.E
+10245,Economics,Economics,118.4.c.6,"9, 10, 11, 12",,
+10246,Economics,Economics,118.4.c.6.A,"9, 10, 11, 12",173665,118.4.6.A
+10247,Economics,Economics,118.4.c.6.B,"9, 10, 11, 12",173666,118.4.6.B
+10248,Economics,Economics,118.4.c.6.C,"9, 10, 11, 12",173667,118.4.6.C
+10249,Economics,Economics,118.4.c.6.D,"9, 10, 11, 12",173668,118.4.6.D
+10250,Economics,Economics,118.4.c.7,"9, 10, 11, 12",,
+10251,Economics,Economics,118.4.c.7.A,"9, 10, 11, 12",173669,118.4.7.A
+10252,Economics,Economics,118.4.c.7.B,"9, 10, 11, 12",173670,118.4.7.B
+10253,Economics,Economics,118.4.c.8,"9, 10, 11, 12",,
+10254,Economics,Economics,118.4.c.8.A,"9, 10, 11, 12",173671,118.4.8.A
+10255,Economics,Economics,118.4.c.8.B,"9, 10, 11, 12",173672,118.4.8.B
+10256,Economics,Economics,118.4.c.8.C,"9, 10, 11, 12",173673,118.4.8.C
+10257,Economics,Economics,118.4.c.9,"9, 10, 11, 12",,
+10258,Economics,Economics,118.4.c.9.A,"9, 10, 11, 12",173674,118.4.9.A
+10259,Economics,Economics,118.4.c.9.B,"9, 10, 11, 12",173675,118.4.9.B

@@ -1,0 +1,121 @@
+,row_id,academic_subject,reporting_category,teks_number,grade_levels,teks_id,teks_display_path
+0,1556,English,Reading/Fluency,110.16.b.1,5,157927,110.16.1.A
+1,1576,English,Reading/Comprehension of Informational Text/Culture and History,110.16.b.10,5,157944,110.16.10.A
+2,1577,English,Reading/Comprehension of Informational Text/Expository Text,110.16.b.11,5,175563,110.16.11
+3,1578,English,Reading/Comprehension of Informational Text/Expository Text,110.16.b.11.A,5,157945,110.16.11.A
+4,1579,English,Reading/Comprehension of Informational Text/Expository Text,110.16.b.11.B,5,157946,110.16.11.B
+5,1582,English,Reading/Comprehension of Informational Text/Expository Text,110.16.b.11.C,5,157947,110.16.11.C
+6,1583,English,Reading/Comprehension of Informational Text/Expository Text,110.16.b.11.D,5,157948,110.16.11.D
+7,1584,English,Reading/Comprehension of Informational Text/Expository Text,110.16.b.11.E,5,157949,110.16.11.E
+8,1585,English,Reading/Comprehension of Informational Text/Persuasive Text,110.16.b.12,5,175564,110.16.12
+9,1586,English,Reading/Comprehension of Informational Text/Persuasive Text,110.16.b.12.A,5,157950,110.16.12.A
+10,1580,English,Reading/Comprehension of Informational Text/Persuasive Text,110.16.b.12.B,5,157951,110.16.12.B
+11,1587,English,Reading/Comprehension of Informational Text/Procedural Texts,110.16.b.13,5,175565,110.16.13
+12,1581,English,Reading/Comprehension of Informational Text/Procedural Texts,110.16.b.13.A,5,157952,110.16.13.A
+13,1588,English,Reading/Comprehension of Informational Text/Procedural Texts,110.16.b.13.B,5,157953,110.16.13.B
+14,1589,English,Reading/Media Literacy,110.16.b.14,5,175566,110.16.14
+15,1567,English,Reading/Media Literacy,110.16.b.14.A,5,157954,110.16.14.A
+16,1568,English,Reading/Media Literacy,110.16.b.14.B,5,157955,110.16.14.B
+17,1590,English,Reading/Media Literacy,110.16.b.14.C,5,157956,110.16.14.C
+18,1591,English,Reading/Media Literacy,110.16.b.14.D,5,157957,110.16.14.D
+19,1592,English,Writing/Writing Process,110.16.b.15,5,175567,110.16.15
+20,1593,English,Writing/Writing Process,110.16.b.15.A,5,157958,110.16.15.A
+21,1594,English,Writing/Writing Process,110.16.b.15.B,5,157959,110.16.15.B
+22,1595,English,Writing/Writing Process,110.16.b.15.C,5,157960,110.16.15.C
+23,1596,English,Writing/Writing Process,110.16.b.15.D,5,157961,110.16.15.D
+24,1597,English,Writing/Writing Process,110.16.b.15.E,5,157962,110.16.15.E
+25,1598,English,Writing/Literary Texts,110.16.b.16,5,175568,110.16.16
+26,1599,English,Writing/Literary Texts,110.16.b.16.A,5,175804,110.16.16.A
+27,1600,English,Writing/Literary Texts,110.16.b.16.A.i,5,157963,110.16.16.Ai
+28,1601,English,Writing/Literary Texts,110.16.b.16.A.ii,5,157964,110.16.16.Aii
+29,1602,English,Writing/Literary Texts,110.16.b.16.A.iii,5,157965,110.16.16.Aiii
+30,1603,English,Writing/Literary Texts,110.16.b.16.B,5,175805,110.16.16.B
+31,1604,English,Writing/Literary Texts,110.16.b.16.B.i,5,157966,110.16.16.Bi
+32,1605,English,Writing/Literary Texts,110.16.b.16.B.ii,5,157967,110.16.16.Bii
+33,1606,English,Writing/Literary Texts,110.16.b.16.B.iii,5,157968,110.16.16.Biii
+34,1607,English,Writing,110.16.b.17,5,157969,110.16.17.A
+35,1608,English,Writing/Expository and Procedural Texts,110.16.b.18,5,175570,110.16.18
+36,1609,English,Writing/Expository and Procedural Texts,110.16.b.18.A,5,175806,110.16.18.A
+37,1610,English,Writing/Expository and Procedural Texts,110.16.b.18.A.i,5,157970,110.16.18.Ai
+38,1611,English,Writing/Expository and Procedural Texts,110.16.b.18.A.ii,5,157971,110.16.18.Aii
+39,1612,English,Writing/Expository and Procedural Texts,110.16.b.18.A.iii,5,157972,110.16.18.Aiii
+40,1613,English,Writing/Expository and Procedural Texts,110.16.b.18.A.iv,5,157973,110.16.18.Aiv
+41,1614,English,Writing/Expository and Procedural Texts,110.16.b.18.B,5,157974,110.16.18.B
+42,1615,English,Writing/Expository and Procedural Texts,110.16.b.18.C,5,157975,110.16.18.C
+43,1616,English,Writing/Persuasive Texts,110.16.b.19,5,157976,110.16.19.A
+44,1552,English,Reading/Vocabulary Development,110.16.b.2,5,175572,110.16.2
+45,1553,English,Reading/Vocabulary Development,110.16.b.2.A,5,157928,110.16.2.A
+46,1557,English,Reading/Vocabulary Development,110.16.b.2.B,5,157929,110.16.2.B
+47,1558,English,Reading/Vocabulary Development,110.16.b.2.C,5,157930,110.16.2.C
+48,1559,English,Reading/Vocabulary Development,110.16.b.2.D,5,157931,110.16.2.D
+49,1560,English,Reading/Vocabulary Development,110.16.b.2.E,5,157932,110.16.2.E
+50,1617,English,Oral and Written Conventions/Conventions,110.16.b.20,5,175573,110.16.20
+51,1618,English,Oral and Written Conventions/Conventions,110.16.b.20.A,5,175807,110.16.20.A
+52,1619,English,Oral and Written Conventions/Conventions,110.16.b.20.A.i,5,157977,110.16.20.Ai
+53,1620,English,Oral and Written Conventions/Conventions,110.16.b.20.A.ii,5,157978,110.16.20.Aii
+54,1621,English,Oral and Written Conventions/Conventions,110.16.b.20.A.iii,5,157979,110.16.20.Aiii
+55,1622,English,Oral and Written Conventions/Conventions,110.16.b.20.A.iv,5,157980,110.16.20.Aiv
+56,1623,English,Oral and Written Conventions/Conventions,110.16.b.20.A.v,5,157981,110.16.20.Av
+57,1624,English,Oral and Written Conventions/Conventions,110.16.b.20.A.vi,5,157982,110.16.20.Avi
+58,1625,English,Oral and Written Conventions/Conventions,110.16.b.20.A.vii,5,157983,110.16.20.Avii
+59,1626,English,Oral and Written Conventions/Conventions,110.16.b.20.A.viii,5,157984,110.16.20.Aviii
+60,1627,English,Oral and Written Conventions/Conventions,110.16.b.20.B,5,157985,110.16.20.B
+61,1628,English,Oral and Written Conventions/Conventions,110.16.b.20.C,5,157986,110.16.20.C
+62,1629,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21,5,175574,110.16.21
+63,1630,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21.A,5,175808,110.16.21.A
+64,1631,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21.A.i,5,157987,110.16.21.Ai
+65,1632,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21.A.ii,5,157988,110.16.21.Aii
+66,1633,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21.A.iii,5,157989,110.16.21.Aiii
+67,1634,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21.B,5,175809,110.16.21.B
+68,1635,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21.B.i,5,157990,110.16.21.Bi
+69,1636,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21.B.ii,5,157991,110.16.21.Bii
+70,1637,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.16.b.21.C,5,157992,110.16.21.C
+71,1638,English,Oral and Written Conventions/Spelling,110.16.b.22,5,175575,110.16.22
+72,1639,English,Oral and Written Conventions/Spelling,110.16.b.22.A,5,175810,110.16.22.A
+73,1640,English,Oral and Written Conventions/Spelling,110.16.b.22.A.i,5,157993,110.16.22.Ai
+74,1641,English,Oral and Written Conventions/Spelling,110.16.b.22.A.ii,5,157994,110.16.22.Aii
+75,1642,English,Oral and Written Conventions/Spelling,110.16.b.22.A.iii,5,157995,110.16.22.Aiii
+76,1643,English,Oral and Written Conventions/Spelling,110.16.b.22.B,5,175811,110.16.22.B
+77,1644,English,Oral and Written Conventions/Spelling,110.16.b.22.B.i,5,157996,110.16.22.Bi
+78,1645,English,Oral and Written Conventions/Spelling,110.16.b.22.B.ii,5,157997,110.16.22.Bii
+79,1646,English,Oral and Written Conventions/Spelling,110.16.b.22.B.iii,5,157998,110.16.22.Biii
+80,1647,English,Oral and Written Conventions/Spelling,110.16.b.22.B.iv,5,157999,110.16.22.Biv
+81,1648,English,Oral and Written Conventions/Spelling,110.16.b.22.C,5,158000,110.16.22.C
+82,1649,English,Oral and Written Conventions/Spelling,110.16.b.22.D,5,158001,110.16.22.D
+83,1650,English,Oral and Written Conventions/Spelling,110.16.b.22.E,5,158002,110.16.22.E
+84,1651,English,Research/Research Plan,110.16.b.23,5,175576,110.16.23
+85,1652,English,Research/Research Plan,110.16.b.23.A,5,158003,110.16.23.A
+86,1653,English,Research/Research Plan,110.16.b.23.B,5,158004,110.16.23.B
+87,1654,English,Research/Gathering Sources,110.16.b.24,5,175577,110.16.24
+88,1655,English,Research/Gathering Sources,110.16.b.24.A,5,158005,110.16.24.A
+89,1656,English,Research/Gathering Sources,110.16.b.24.B,5,158006,110.16.24.B
+90,1657,English,Research/Gathering Sources,110.16.b.24.C,5,158007,110.16.24.C
+91,1658,English,Research/Gathering Sources,110.16.b.24.D,5,158008,110.16.24.D
+92,1659,English,Research/Gathering Sources,110.16.b.24.E,5,158009,110.16.24.E
+93,1660,English,Research/Synthesizing Information,110.16.b.25,5,175578,110.16.25
+94,1661,English,Research/Synthesizing Information,110.16.b.25.A,5,158010,110.16.25.A
+95,1662,English,Research/Synthesizing Information,110.16.b.25.B,5,158011,110.16.25.B
+96,1663,English,Research/Organizing and Presenting Ideas,110.16.b.26,5,175579,110.16.26
+97,1664,English,Research/Organizing and Presenting Ideas,110.16.b.26.A,5,158012,110.16.26.A
+98,1665,English,Research/Organizing and Presenting Ideas,110.16.b.26.B,5,158013,110.16.26.B
+99,1666,English,Research/Organizing and Presenting Ideas,110.16.b.26.C,5,158014,110.16.26.C
+100,1667,English,Research/Organizing and Presenting Ideas,110.16.b.26.D,5,158015,110.16.26.D
+101,1668,English,Listening and Speaking/Listening,110.16.b.27,5,175580,110.16.27
+102,1669,English,Listening and Speaking/Listening,110.16.b.27.A,5,158016,110.16.27.A
+103,1670,English,Listening and Speaking/Listening,110.16.b.27.B,5,158017,110.16.27.B
+104,1671,English,Listening and Speaking/Listening,110.16.b.27.C,5,158018,110.16.27.C
+105,1672,English,Listening and Speaking/Speaking,110.16.b.28,5,158019,110.16.28.A
+106,1673,English,Listening and Speaking/Teamwork,110.16.b.29,5,158020,110.16.29.A
+107,1561,English,Reading/Comprehension of Literary Text/Theme and Genre,110.16.b.3,5,175583,110.16.3
+108,1562,English,Reading/Comprehension of Literary Text/Theme and Genre,110.16.b.3.A,5,157933,110.16.3.A
+109,1563,English,Reading/Comprehension of Literary Text/Theme and Genre,110.16.b.3.B,5,157934,110.16.3.B
+110,1564,English,Reading/Comprehension of Literary Text/Theme and Genre,110.16.b.3.C,5,157935,110.16.3.C
+111,1565,English,Reading/Comprehension of Literary Text/Poetry,110.16.b.4,5,157936,110.16.4.A
+112,1566,English,Reading/Comprehension of Literary Text/Drama,110.16.b.5,5,175585,110.16.5
+113,1569,English,Reading/Comprehension of Literary Text/Fiction,110.16.b.6,5,,
+114,1570,English,Reading/Comprehension of Literary Text/Fiction,110.16.b.6.A,5,,
+115,1571,English,Reading/Comprehension of Literary Text/Fiction,110.16.b.6.B,5,,
+116,1572,English,Reading/Comprehension of Literary Text/Fiction,110.16.b.6.C,5,,
+117,1573,English,Reading/Comprehension of Literary Text/Literary Nonfiction,110.16.b.7,5,,
+118,1574,English,Reading/Comprehension of Literary Text/Sensory Language,110.16.b.8,5,,
+119,1575,English,Reading/Comprehension of Text/Independent Reading,110.16.b.9,5,,

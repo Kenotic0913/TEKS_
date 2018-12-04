@@ -1,0 +1,104 @@
+,row_id,academic_subject,reporting_category,teks_number,grade_levels,teks_id,teks_display_path
+0,2770,English,Reading/Vocabulary Development,110.34.b.1,"9, 10, 11, 12",175752,110.34.1
+1,2792,English,Reading/Vocabulary Development,110.34.b.1.A,"9, 10, 11, 12",158605,110.34.1.A
+2,2771,English,Reading/Vocabulary Development,110.34.b.1.B,"9, 10, 11, 12",158606,110.34.1.B
+3,2793,English,Reading/Vocabulary Development,110.34.b.1.C,"9, 10, 11, 12",158607,110.34.1.C
+4,2772,English,Reading/Vocabulary Development,110.34.b.1.D,"9, 10, 11, 12",158608,110.34.1.D
+5,2794,English,Reading/Vocabulary Development,110.34.b.1.E,"9, 10, 11, 12",158609,110.34.1.E
+6,2657,English,Reading/Comprehension of Informational Text/Persuasive Text,110.34.b.10,"9, 10, 11, 12",175753,110.34.10
+7,2658,English,Reading/Comprehension of Informational Text/Persuasive Text,110.34.b.10.A,"9, 10, 11, 12",158626,110.34.10.A
+8,2659,English,Reading/Comprehension of Informational Text/Persuasive Text,110.34.b.10.B,"9, 10, 11, 12",158627,110.34.10.B
+9,2660,English,Reading/Comprehension of Informational Text/Procedural Texts,110.34.b.11,"9, 10, 11, 12",175754,110.34.11
+10,2661,English,Reading/Comprehension of Informational Text/Procedural Texts,110.34.b.11.A,"9, 10, 11, 12",158628,110.34.11.A
+11,2662,English,Reading/Comprehension of Informational Text/Procedural Texts,110.34.b.11.B,"9, 10, 11, 12",158629,110.34.11.B
+12,2669,English,Reading/Media Literacy,110.34.b.12,"9, 10, 11, 12",175755,110.34.12
+13,525,English,Reading/Media Literacy,110.34.b.12.A,"9, 10, 11, 12",158630,110.34.12.A
+14,2670,English,Reading/Media Literacy,110.34.b.12.B,"9, 10, 11, 12",158631,110.34.12.B
+15,622,English,Reading/Media Literacy,110.34.b.12.C,"9, 10, 11, 12",158632,110.34.12.C
+16,623,English,Reading/Media Literacy,110.34.b.12.D,"9, 10, 11, 12",158633,110.34.12.D
+17,2671,English,Writing/Writing Process,110.34.b.13,"9, 10, 11, 12",175756,110.34.13
+18,2672,English,Writing/Writing Process,110.34.b.13.A,"9, 10, 11, 12",158634,110.34.13.A
+19,2673,English,Writing/Writing Process,110.34.b.13.B,"9, 10, 11, 12",158635,110.34.13.B
+20,2674,English,Writing/Writing Process,110.34.b.13.C,"9, 10, 11, 12",158636,110.34.13.C
+21,624,English,Writing/Writing Process,110.34.b.13.D,"9, 10, 11, 12",158637,110.34.13.D
+22,2799,English,Writing/Writing Process,110.34.b.13.E,"9, 10, 11, 12",158638,110.34.13.E
+23,2675,English,Writing/Literary Texts,110.34.b.14,"9, 10, 11, 12",175757,110.34.14
+24,2676,English,Writing/Literary Texts,110.34.b.14.A,"9, 10, 11, 12",158639,110.34.14.A
+25,2677,English,Writing/Literary Texts,110.34.b.14.B,"9, 10, 11, 12",158640,110.34.14.B
+26,2800,English,Writing/Literary Texts,110.34.b.14.C,"9, 10, 11, 12",158641,110.34.14.C
+27,2678,English,Writing/Expository and Procedural Texts,110.34.b.15,"9, 10, 11, 12",175758,110.34.15
+28,2801,English,Writing/Expository and Procedural Texts,110.34.b.15.A,"9, 10, 11, 12",175849,110.34.15.A
+29,2802,English,Writing/Expository and Procedural Texts,110.34.b.15.A.i,"9, 10, 11, 12",158642,110.34.15.Ai
+30,591,English,Writing/Expository and Procedural Texts,110.34.b.15.A.ii,"9, 10, 11, 12",158643,110.34.15.Aii
+31,592,English,Writing/Expository and Procedural Texts,110.34.b.15.A.iii,"9, 10, 11, 12",158644,110.34.15.Aiii
+32,593,English,Writing/Expository and Procedural Texts,110.34.b.15.A.iv,"9, 10, 11, 12",158645,110.34.15.Aiv
+33,594,English,Writing/Expository and Procedural Texts,110.34.b.15.A.v,"9, 10, 11, 12",158646,110.34.15.Av
+34,2684,English,Writing/Expository and Procedural Texts,110.34.b.15.A.vi,"9, 10, 11, 12",158647,110.34.15.Avi
+35,595,English,Writing/Expository and Procedural Texts,110.34.b.15.A.vii,"9, 10, 11, 12",158648,110.34.15.Avii
+36,2685,English,Writing/Expository and Procedural Texts,110.34.b.15.B,"9, 10, 11, 12",175850,110.34.15.B
+37,609,English,Writing/Expository and Procedural Texts,110.34.b.15.B.i,"9, 10, 11, 12",158649,110.34.15.Bi
+38,610,English,Writing/Expository and Procedural Texts,110.34.b.15.B.ii,"9, 10, 11, 12",158650,110.34.15.Bii
+39,637,English,Writing/Expository and Procedural Texts,110.34.b.15.B.iii,"9, 10, 11, 12",158651,110.34.15.Biii
+40,638,English,Writing/Expository and Procedural Texts,110.34.b.15.B.iv,"9, 10, 11, 12",158652,110.34.15.Biv
+41,639,English,Writing/Expository and Procedural Texts,110.34.b.15.B.v,"9, 10, 11, 12",158653,110.34.15.Bv
+42,2786,English,Writing/Expository and Procedural Texts,110.34.b.15.C,"9, 10, 11, 12",175851,110.34.15.C
+43,2787,English,Writing/Expository and Procedural Texts,110.34.b.15.C.i,"9, 10, 11, 12",158654,110.34.15.Ci
+44,2686,English,Writing/Expository and Procedural Texts,110.34.b.15.C.ii,"9, 10, 11, 12",158655,110.34.15.Cii
+45,2788,English,Writing/Expository and Procedural Texts,110.34.b.15.C.iii,"9, 10, 11, 12",158656,110.34.15.Ciii
+46,2284,English,Writing/Expository and Procedural Texts,110.34.b.15.C.iv,"9, 10, 11, 12",158657,110.34.15.Civ
+47,2285,English,Writing/Expository and Procedural Texts,110.34.b.15.C.v,"9, 10, 11, 12",158658,110.34.15.Cv
+48,2687,English,Writing/Expository and Procedural Texts,110.34.b.15.D,"9, 10, 11, 12",158659,110.34.15.D
+49,2688,English,Writing/Persuasive Texts,110.34.b.16,"9, 10, 11, 12",175759,110.34.16
+50,2689,English,Writing/Persuasive Texts,110.34.b.16.A,"9, 10, 11, 12",158660,110.34.16.A
+51,2286,English,Writing/Persuasive Texts,110.34.b.16.B,"9, 10, 11, 12",158661,110.34.16.B
+52,2803,English,Writing/Persuasive Texts,110.34.b.16.C,"9, 10, 11, 12",158662,110.34.16.C
+53,2804,English,Writing/Persuasive Texts,110.34.b.16.D,"9, 10, 11, 12",158663,110.34.16.D
+54,2805,English,Writing/Persuasive Texts,110.34.b.16.E,"9, 10, 11, 12",158664,110.34.16.E
+55,2806,English,Writing/Persuasive Texts,110.34.b.16.F,"9, 10, 11, 12",158665,110.34.16.F
+56,2807,English,Writing/Persuasive Texts,110.34.b.16.G,"9, 10, 11, 12",158666,110.34.16.G
+57,2808,English,Oral and Written Conventions/Conventions,110.34.b.17,"9, 10, 11, 12",175760,110.34.17
+58,2809,English,Oral and Written Conventions/Conventions,110.34.b.17.A,"9, 10, 11, 12",158667,110.34.17.A
+59,2810,English,Oral and Written Conventions/Conventions,110.34.b.17.B,"9, 10, 11, 12",158668,110.34.17.B
+60,2811,English,"Oral and Written Conventions/Handwriting, Capitalization, and Punctuation",110.34.b.18,"9, 10, 11, 12",158669,110.34.18.A
+61,2812,English,Oral and Written Conventions/Spelling,110.34.b.19,"9, 10, 11, 12",158670,110.34.19.A
+62,2795,English,Reading/Comprehension of Literary Text/Theme and Genre,110.34.b.2,"9, 10, 11, 12",175763,110.34.2
+63,522,English,Reading/Comprehension of Literary Text/Theme and Genre,110.34.b.2.A,"9, 10, 11, 12",158610,110.34.2.A
+64,2796,English,Reading/Comprehension of Literary Text/Theme and Genre,110.34.b.2.B,"9, 10, 11, 12",158611,110.34.2.B
+65,2797,English,Reading/Comprehension of Literary Text/Theme and Genre,110.34.b.2.C,"9, 10, 11, 12",158612,110.34.2.C
+66,2813,English,Research/Research Plan,110.34.b.20,"9, 10, 11, 12",175764,110.34.20
+67,2814,English,Research/Research Plan,110.34.b.20.A,"9, 10, 11, 12",158671,110.34.20.A
+68,2815,English,Research/Research Plan,110.34.b.20.B,"9, 10, 11, 12",158672,110.34.20.B
+69,2816,English,Research/Gathering Sources,110.34.b.21,"9, 10, 11, 12",175765,110.34.21
+70,2817,English,Research/Gathering Sources,110.34.b.21.A,"9, 10, 11, 12",158673,110.34.21.A
+71,2821,English,Research/Gathering Sources,110.34.b.21.B,"9, 10, 11, 12",158674,110.34.21.B
+72,2822,English,Research/Gathering Sources,110.34.b.21.C,"9, 10, 11, 12",158675,110.34.21.C
+73,2823,English,Research/Synthesizing Information,110.34.b.22,"9, 10, 11, 12",175766,110.34.22
+74,2818,English,Research/Synthesizing Information,110.34.b.22.A,"9, 10, 11, 12",158676,110.34.22.A
+75,2824,English,Research/Synthesizing Information,110.34.b.22.B,"9, 10, 11, 12",158677,110.34.22.B
+76,2819,English,Research/Synthesizing Information,110.34.b.22.C,"9, 10, 11, 12",158678,110.34.22.C
+77,2825,English,Research/Organizing and Presenting Ideas,110.34.b.23,"9, 10, 11, 12",175767,110.34.23
+78,2826,English,Research/Organizing and Presenting Ideas,110.34.b.23.A,"9, 10, 11, 12",158679,110.34.23.A
+79,2820,English,Research/Organizing and Presenting Ideas,110.34.b.23.B,"9, 10, 11, 12",158680,110.34.23.B
+80,2827,English,Research/Organizing and Presenting Ideas,110.34.b.23.C,"9, 10, 11, 12",158681,110.34.23.C
+81,2828,English,Research/Organizing and Presenting Ideas,110.34.b.23.D,"9, 10, 11, 12",158682,110.34.23.D
+82,2829,English,Research/Organizing and Presenting Ideas,110.34.b.23.E,"9, 10, 11, 12",158683,110.34.23.E
+83,2830,English,Listening and Speaking/Listening,110.34.b.24,"9, 10, 11, 12",175768,110.34.24
+84,2831,English,Listening and Speaking/Listening,110.34.b.24.A,"9, 10, 11, 12",158684,110.34.24.A
+85,2832,English,Listening and Speaking/Listening,110.34.b.24.B,"9, 10, 11, 12",158685,110.34.24.B
+86,2833,English,Listening and Speaking/Speaking,110.34.b.25,"9, 10, 11, 12",158686,110.34.25.A
+87,2836,English,Listening and Speaking/Teamwork,110.34.b.26,"9, 10, 11, 12",158687,110.34.26.A
+88,2798,English,Reading/Comprehension of Literary Text/Poetry,110.34.b.3,"9, 10, 11, 12",158613,110.34.3.A
+89,2640,English,Reading/Comprehension of Literary Text/Drama,110.34.b.4,"9, 10, 11, 12",158614,110.34.4.A
+90,2641,English,Reading/Comprehension of Literary Text/Fiction,110.34.b.5,"9, 10, 11, 12",175773,110.34.5
+91,2642,English,Reading/Comprehension of Literary Text/Fiction,110.34.b.5.A,"9, 10, 11, 12",158615,110.34.5.A
+92,2643,English,Reading/Comprehension of Literary Text/Fiction,110.34.b.5.B,"9, 10, 11, 12",158616,110.34.5.B
+93,523,English,Reading/Comprehension of Literary Text/Fiction,110.34.b.5.C,"9, 10, 11, 12",158617,110.34.5.C
+94,524,English,Reading/Comprehension of Literary Text/Fiction,110.34.b.5.D,"9, 10, 11, 12",158618,110.34.5.D
+95,2644,English,Reading/Comprehension of Literary Text/Literary Nonfiction,110.34.b.6,"9, 10, 11, 12",158619,110.34.6.A
+96,2645,English,Reading/Comprehension of Literary Text/Sensory Language,110.34.b.7,"9, 10, 11, 12",,
+97,2646,English,Reading/Comprehension of Informational Text/Culture and History,110.34.b.8,"9, 10, 11, 12",,
+98,2652,English,Reading/Comprehension of Informational Text/Expository Text,110.34.b.9,"9, 10, 11, 12",,
+99,2653,English,Reading/Comprehension of Informational Text/Expository Text,110.34.b.9.A,"9, 10, 11, 12",,
+100,2654,English,Reading/Comprehension of Informational Text/Expository Text,110.34.b.9.B,"9, 10, 11, 12",,
+101,2655,English,Reading/Comprehension of Informational Text/Expository Text,110.34.b.9.C,"9, 10, 11, 12",,
+102,2656,English,Reading/Comprehension of Informational Text/Expository Text,110.34.b.9.D,"9, 10, 11, 12",,

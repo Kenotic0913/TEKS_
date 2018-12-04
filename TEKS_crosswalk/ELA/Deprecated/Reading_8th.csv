@@ -1,0 +1,106 @@
+,row_id,academic_subject,reporting_category,teks_number,grade_levels,teks_id,teks_display_path
+0,1895,English,Reading/Fluency,110.20.b.1,8,158193,110.20.1.A
+1,1918,English,Comprehension of Informational Text/Expository Text,110.20.b.10,8,175647,110.20.10
+2,1919,English,Comprehension of Informational Text/Expository Text,110.20.b.10.A,8,158210,110.20.10.A
+3,1920,English,Comprehension of Informational Text/Expository Text,110.20.b.10.B,8,158211,110.20.10.B
+4,1921,English,Comprehension of Informational Text/Expository Text,110.20.b.10.C,8,158212,110.20.10.C
+5,1922,English,Comprehension of Informational Text/Expository Text,110.20.b.10.D,8,158213,110.20.10.D
+6,1923,English,Comprehension of Informational Text/Persuasive Text,110.20.b.11,8,175648,110.20.11
+7,1924,English,Comprehension of Informational Text/Persuasive Text,110.20.b.11.A,8,158214,110.20.11.A
+8,1925,English,Comprehension of Informational Text/Persuasive Text,110.20.b.11.B,8,158215,110.20.11.B
+9,1926,English,Comprehension of Informational Text/Procedural Texts,110.20.b.12,8,175649,110.20.12
+10,1916,English,Comprehension of Informational Text/Procedural Texts,110.20.b.12.A,8,158216,110.20.12.A
+11,1917,English,Comprehension of Informational Text/Procedural Texts,110.20.b.12.B,8,158217,110.20.12.B
+12,1927,English,Reading/Media Literacy,110.20.b.13,8,175650,110.20.13
+13,1903,English,Reading/Media Literacy,110.20.b.13.A,8,158218,110.20.13.A
+14,1904,English,Reading/Media Literacy,110.20.b.13.B,8,158219,110.20.13.B
+15,1928,English,Reading/Media Literacy,110.20.b.13.C,8,158220,110.20.13.C
+16,1929,English,Reading/Media Literacy,110.20.b.13.D,8,158221,110.20.13.D
+17,1930,English,Writing/Writing Process,110.20.b.14,8,175651,110.20.14
+18,1931,English,Writing/Writing Process,110.20.b.14.A,8,158222,110.20.14.A
+19,1934,English,Writing/Writing Process,110.20.b.14.B,8,158223,110.20.14.B
+20,1935,English,Writing/Writing Process,110.20.b.14.C,8,158224,110.20.14.C
+21,1936,English,Writing/Writing Process,110.20.b.14.D,8,158225,110.20.14.D
+22,1937,English,Writing/Writing Process,110.20.b.14.E,8,158226,110.20.14.E
+23,1938,English,Writing/Literary Texts,110.20.b.15,8,175652,110.20.15
+24,1939,English,Writing/Literary Texts,110.20.b.15.A,8,175831,110.20.15.A
+25,1940,English,Writing/Literary Texts,110.20.b.15.A.i,8,158227,110.20.15.Ai
+26,1941,English,Writing/Literary Texts,110.20.b.15.A.ii,8,158228,110.20.15.Aii
+27,1942,English,Writing/Literary Texts,110.20.b.15.A.iii,8,158229,110.20.15.Aiii
+28,1943,English,Writing/Literary Texts,110.20.b.15.A.iv,8,158230,110.20.15.Aiv
+29,1944,English,Writing/Literary Texts,110.20.b.15.A.v,8,158231,110.20.15.Av
+30,1945,English,Writing/Literary Texts,110.20.b.15.B,8,175832,110.20.15.B
+31,1946,English,Writing/Literary Texts,110.20.b.15.B.i,8,158232,110.20.15.Bi
+32,1947,English,Writing/Literary Texts,110.20.b.15.B.ii,8,158233,110.20.15.Bii
+33,1948,English,Writing/Literary Texts,110.20.b.15.B.iii,8,158234,110.20.15.Biii
+34,1949,English,Writing,110.20.b.16,8,158235,110.20.16.A
+35,1950,English,Writing/Expository and Procedural Texts,110.20.b.17,8,175654,110.20.17
+36,1951,English,Writing/Expository and Procedural Texts,110.20.b.17.A,8,175833,110.20.17.A
+37,1952,English,Writing/Expository and Procedural Texts,110.20.b.17.A.i,8,158236,110.20.17.Ai
+38,1953,English,Writing/Expository and Procedural Texts,110.20.b.17.A.ii,8,158237,110.20.17.Aii
+39,1954,English,Writing/Expository and Procedural Texts,110.20.b.17.A.iii,8,158238,110.20.17.Aiii
+40,1955,English,Writing/Expository and Procedural Texts,110.20.b.17.A.iv,8,158239,110.20.17.Aiv
+41,1956,English,Writing/Expository and Procedural Texts,110.20.b.17.A.v,8,158240,110.20.17.Av
+42,1957,English,Writing/Expository and Procedural Texts,110.20.b.17.B,8,158241,110.20.17.B
+43,1958,English,Writing/Expository and Procedural Texts,110.20.b.17.C,8,158242,110.20.17.C
+44,1959,English,Writing/Expository and Procedural Texts,110.20.b.17.D,8,158243,110.20.17.D
+45,1960,English,Writing/Persuasive Texts,110.20.b.18,8,175655,110.20.18
+46,1961,English,Writing/Persuasive Texts,110.20.b.18.A,8,158244,110.20.18.A
+47,1962,English,Writing/Persuasive Texts,110.20.b.18.B,8,158245,110.20.18.B
+48,1963,English,Writing/Persuasive Texts,110.20.b.18.C,8,158246,110.20.18.C
+49,1964,English,Oral and Written Conventions/Conventions,110.20.b.19,8,175656,110.20.19
+50,1965,English,Oral and Written Conventions/Conventions,110.20.b.19.A,8,175834,110.20.19.A
+51,1966,English,Oral and Written Conventions/Conventions,110.20.b.19.A.i,8,158247,110.20.19.Ai
+52,1967,English,Oral and Written Conventions/Conventions,110.20.b.19.A.ii,8,158248,110.20.19.Aii
+53,1968,English,Oral and Written Conventions/Conventions,110.20.b.19.A.iii,8,158249,110.20.19.Aiii
+54,1969,English,Oral and Written Conventions/Conventions,110.20.b.19.A.iv,8,158250,110.20.19.Aiv
+55,1970,English,Oral and Written Conventions/Conventions,110.20.b.19.A.v,8,158251,110.20.19.Av
+56,1971,English,Oral and Written Conventions/Conventions,110.20.b.19.B,8,158252,110.20.19.B
+57,1972,English,Oral and Written Conventions/Conventions,110.20.b.19.C,8,158253,110.20.19.C
+58,1889,English,Reading/Vocabulary Development,110.20.b.2,8,175657,110.20.2
+59,1896,English,Reading/Vocabulary Development,110.20.b.2.A,8,158194,110.20.2.A
+60,1897,English,Reading/Vocabulary Development,110.20.b.2.B,8,158195,110.20.2.B
+61,1898,English,Reading/Vocabulary Development,110.20.b.2.C,8,158196,110.20.2.C
+62,1899,English,Reading/Vocabulary Development,110.20.b.2.D,8,158197,110.20.2.D
+63,1900,English,Reading/Vocabulary Development,110.20.b.2.E,8,158198,110.20.2.E
+64,1973,English,Writing/Conventions of Language/Handwriting,110.20.b.20,8,175658,110.20.20
+65,1974,English,Writing/Conventions of Language/Handwriting,110.20.b.20.A,8,158254,110.20.20.A
+66,1975,English,Writing/Conventions of Language/Handwriting,110.20.b.20.B,8,175835,110.20.20.B
+67,1976,English,Writing/Conventions of Language/Handwriting,110.20.b.20.B.i,8,158255,110.20.20.Bi
+68,1977,English,Writing/Conventions of Language/Handwriting,110.20.b.20.B.ii,8,158256,110.20.20.Bii
+69,1979,English,Oral and Written Conventions/Spelling,110.20.b.21,8,158257,110.20.21.A
+70,1978,English,Research/Research Plan,110.20.b.22,8,175660,110.20.22
+71,1980,English,Research/Research Plan,110.20.b.22.A,8,158258,110.20.22.A
+72,1981,English,Research/Research Plan,110.20.b.22.B,8,158259,110.20.22.B
+73,1982,English,Research/Gathering Sources,110.20.b.23,8,175661,110.20.23
+74,1983,English,Research/Gathering Sources,110.20.b.23.A,8,158260,110.20.23.A
+75,1984,English,Research/Gathering Sources,110.20.b.23.B,8,158261,110.20.23.B
+76,1985,English,Research/Gathering Sources,110.20.b.23.C,8,158262,110.20.23.C
+77,1986,English,Research/Gathering Sources,110.20.b.23.D,8,158263,110.20.23.D
+78,1987,English,Research/Synthesizing Information,110.20.b.24,8,175662,110.20.24
+79,1988,English,Research/Synthesizing Information,110.20.b.24.A,8,158264,110.20.24.A
+80,1989,English,Research/Synthesizing Information,110.20.b.24.B,8,158265,110.20.24.B
+81,1990,English,Research/Organizing and Presenting Ideas,110.20.b.25,8,175663,110.20.25
+82,1991,English,Research/Organizing and Presenting Ideas,110.20.b.25.A,8,158266,110.20.25.A
+83,1992,English,Research/Organizing and Presenting Ideas,110.20.b.25.B,8,158267,110.20.25.B
+84,1993,English,Research/Organizing and Presenting Ideas,110.20.b.25.C,8,158268,110.20.25.C
+85,1994,English,Research/Organizing and Presenting Ideas,110.20.b.25.D,8,158269,110.20.25.D
+86,1998,English,Listening and Speaking/Listening,110.20.b.26,8,175664,110.20.26
+87,1999,English,Listening and Speaking/Listening,110.20.b.26.A,8,158270,110.20.26.A
+88,2000,English,Listening and Speaking/Listening,110.20.b.26.B,8,158271,110.20.26.B
+89,2001,English,Listening and Speaking/Listening,110.20.b.26.C,8,158272,110.20.26.C
+90,2002,English,Listening and Speaking/Speaking,110.20.b.27,8,158273,110.20.27.A
+91,2003,English,Listening and Speaking/Teamwork,110.20.b.28,8,158274,110.20.28.A
+92,1901,English,Comprehension of Literary Text/Theme and Genre,110.20.b.3,8,175667,110.20.3
+93,1902,English,Comprehension of Literary Text/Theme and Genre,110.20.b.3.A,8,158199,110.20.3.A
+94,1905,English,Comprehension of Literary Text/Theme and Genre,110.20.b.3.B,8,158200,110.20.3.B
+95,1906,English,Comprehension of Literary Text/Theme and Genre,110.20.b.3.C,8,158201,110.20.3.C
+96,1907,English,Comprehension of Literary Text/Poetry,110.20.b.4,8,158202,110.20.4.A
+97,1908,English,Comprehension of Literary Text/Drama,110.20.b.5,8,158203,110.20.5.A
+98,1909,English,Comprehension of Literary Text/Fiction,110.20.b.6,8,,
+99,1910,English,Comprehension of Literary Text/Fiction,110.20.b.6.A,8,,
+100,1911,English,Comprehension of Literary Text/Fiction,110.20.b.6.B,8,,
+101,1912,English,Comprehension of Literary Text/Fiction,110.20.b.6.C,8,,
+102,1913,English,Comprehension of Literary Text/Literary Nonfiction,110.20.b.7,8,,
+103,1914,English,Comprehension of Literary Text/Sensory Language,110.20.b.8,8,,
+104,1915,English,Comprehension of Informational Text/Culture and History,110.20.b.9,8,,
